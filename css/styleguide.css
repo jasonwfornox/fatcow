@@ -1,0 +1,35 @@
+:root { 
+  --big-foot-feet: #f09151;
+  --black: #000000;
+  --cape-honey: #ffe4aa;
+  --merino: #f5ede4;
+  --sunglow: #ffc348;
+  --white: #ffffff;
+  --yellow-metal: #7c623f;
+ 
+  --font-size-l: 32px;
+  --font-size-m: 30px;
+  --font-size-xl: 60.2px;
+  --font-size-xxl: 70px;
+ 
+  --font-family-gilroy: "Gilroy", Helvetica;
+  --font-family-gilroy-bold: "Gilroy-Bold", Helvetica;
+  --font-family-gilroy-extrabold: "Gilroy-ExtraBold", Helvetica;
+  --font-family-gilroy-medium: "Gilroy-Medium", Helvetica;
+  --font-family-roundsblack: "RoundsBlack", Helvetica;
+}
+.gilroy-medium-yellow-metal-30px {
+  color: var(--yellow-metal);
+  font-family: var(--font-family-gilroy-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gilroy-bold-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-gilroy-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}

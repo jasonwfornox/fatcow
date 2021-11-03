@@ -1,0 +1,9919 @@
+/* screen - artboard-1 */
+
+.artboard-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 12791px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.artboard-1 .overlap-group30 {
+  height: 11778px;
+  position: relative;
+  width: 1969px;
+}
+
+.artboard-1 .path-103162 {
+  height: 11778px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.artboard-1 .rectangle-27401 {
+  background: linear-gradient(180deg, #ffca21 0%, #dbf4ff 0%, #ffffff 100%);
+  height: 1061px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 1920px;
+}
+
+.artboard-1 .rectangle-27392 {
+  background: linear-gradient(180deg, #9d88d5 0%, #da4c87 100%);
+  height: 480px;
+  left: 0;
+  position: absolute;
+  top: 10496px;
+  width: 1920px;
+}
+
+.artboard-1 .rectangle-27316 {
+  background-color: var(--cape-honey);
+  border-radius: 92px;
+  box-shadow: -5px 5px 6px #00000029;
+  height: 496px;
+  left: 773px;
+  position: absolute;
+  top: 7157px;
+  transform: rotate(90deg);
+  width: 372px;
+}
+
+.artboard-1 .rectangle-27394 {
+  background-color: var(--cape-honey);
+  border-radius: 92px;
+  box-shadow: -5px 5px 6px #00000029;
+  height: 496px;
+  left: 773px;
+  position: absolute;
+  top: 7755px;
+  transform: rotate(90deg);
+  width: 372px;
+}
+
+.artboard-1 .rectangle-27330 {
+  background-color: var(--cape-honey);
+  border-radius: 135px;
+  box-shadow: -5px 5px 6px #00000029;
+  height: 638px;
+  left: 380px;
+  position: absolute;
+  top: 8800px;
+  transform: rotate(90deg);
+  width: 357px;
+}
+
+.artboard-1 .rectangle-27333 {
+  background-color: var(--cape-honey);
+  border-radius: 135px;
+  box-shadow: -5px 5px 6px #00000029;
+  height: 638px;
+  left: 380px;
+  position: absolute;
+  top: 9532px;
+  transform: rotate(90deg);
+  width: 357px;
+}
+
+.artboard-1 .rectangle-27331 {
+  background-color: var(--cape-honey);
+  border-radius: 135px;
+  box-shadow: -5px 5px 6px #00000029;
+  height: 638px;
+  left: 1160px;
+  position: absolute;
+  top: 8800px;
+  transform: rotate(90deg);
+  width: 357px;
+}
+
+.artboard-1 .rectangle-27332 {
+  background-color: var(--cape-honey);
+  border-radius: 135px;
+  box-shadow: -5px 5px 6px #00000029;
+  height: 638px;
+  left: 1160px;
+  position: absolute;
+  top: 9532px;
+  transform: rotate(90deg);
+  width: 357px;
+}
+
+.artboard-1 .rectangle-27317 {
+  background-color: var(--cape-honey);
+  border-radius: 92px;
+  box-shadow: -5px 5px 6px #00000029;
+  height: 496px;
+  left: 1346px;
+  position: absolute;
+  top: 7157px;
+  transform: rotate(90deg);
+  width: 372px;
+}
+
+.artboard-1 .rectangle-27395 {
+  background-color: var(--cape-honey);
+  border-radius: 92px;
+  box-shadow: -5px 5px 6px #00000029;
+  height: 496px;
+  left: 1346px;
+  position: absolute;
+  top: 7755px;
+  transform: rotate(90deg);
+  width: 372px;
+}
+
+.artboard-1 .rectangle-27315 {
+  background-color: var(--cape-honey);
+  border-radius: 92px;
+  box-shadow: -5px 5px 6px #00000029;
+  height: 496px;
+  left: 202px;
+  position: absolute;
+  top: 7157px;
+  transform: rotate(90deg);
+  width: 372px;
+}
+
+.artboard-1 .rectangle-27393 {
+  background-color: var(--cape-honey);
+  border-radius: 92px;
+  box-shadow: -5px 5px 6px #00000029;
+  height: 496px;
+  left: 202px;
+  position: absolute;
+  top: 7755px;
+  transform: rotate(90deg);
+  width: 372px;
+}
+
+.artboard-1 .rectangle-8 {
+  background-color: var(--cape-honey);
+  border-radius: 108.07px;
+  box-shadow: -8px 8px 6px #00000029;
+  height: 656px;
+  left: 201px;
+  position: absolute;
+  top: 1346px;
+  width: 460px;
+}
+
+.artboard-1 .rectangle-27326 {
+  background-color: var(--cape-honey);
+  border-radius: 108.07px;
+  box-shadow: -8px 8px 6px #00000029;
+  height: 576px;
+  left: 201px;
+  position: absolute;
+  top: 4734px;
+  width: 460px;
+}
+
+.artboard-1 .rectangle-9 {
+  background-color: var(--cape-honey);
+  border-radius: 108.07px;
+  box-shadow: -8px 8px 6px #00000029;
+  height: 656px;
+  left: 1246px;
+  position: absolute;
+  top: 1346px;
+  width: 460px;
+}
+
+.artboard-1 .rectangle-27324 {
+  background-color: var(--cape-honey);
+  border-radius: 108.07px;
+  box-shadow: -8px 8px 6px #00000029;
+  height: 576px;
+  left: 1246px;
+  position: absolute;
+  top: 4734px;
+  width: 460px;
+}
+
+.artboard-1 .rectangle-10 {
+  background-color: var(--cape-honey);
+  border-radius: 108.07px;
+  box-shadow: -8px 8px 6px #00000029;
+  height: 656px;
+  left: 724px;
+  position: absolute;
+  top: 1346px;
+  width: 460px;
+}
+
+.artboard-1 .rectangle-27325 {
+  background-color: var(--cape-honey);
+  border-radius: 108.07px;
+  box-shadow: -8px 8px 6px #00000029;
+  height: 576px;
+  left: 724px;
+  position: absolute;
+  top: 4734px;
+  width: 460px;
+}
+
+.artboard-1 .path-103027 {
+  height: 200px;
+  left: 211px;
+  object-fit: cover;
+  position: absolute;
+  top: 370px;
+  width: 893px;
+}
+
+.artboard-1 .text-1 {
+  color: #9c8bd9;
+  font-family: var(--font-family-gilroy-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  left: 214px;
+  letter-spacing: 0;
+  line-height: 38.4px;
+  position: absolute;
+  top: 294px;
+  white-space: nowrap;
+}
+
+.artboard-1 .path-103199 {
+  height: 276px;
+  left: 217px;
+  object-fit: cover;
+  position: absolute;
+  top: 11135px;
+  width: 749px;
+}
+
+.artboard-1 .text-2 {
+  left: 211px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 603px;
+  white-space: nowrap;
+}
+
+.artboard-1 .text-3 {
+  left: 211px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 11451px;
+  white-space: nowrap;
+}
+
+.artboard-1 .path-103028 {
+  height: 66px;
+  left: 503px;
+  object-fit: cover;
+  position: absolute;
+  top: 1166px;
+  width: 901px;
+}
+
+.artboard-1 .path-103192 {
+  height: 234px;
+  left: 284px;
+  object-fit: cover;
+  position: absolute;
+  top: 1708px;
+  width: 298px;
+}
+
+.artboard-1 .path-103189 {
+  height: 225px;
+  left: 247px;
+  object-fit: cover;
+  position: absolute;
+  top: 4970px;
+  width: 369px;
+}
+
+.artboard-1 .path-103190 {
+  height: 164px;
+  left: 826px;
+  object-fit: cover;
+  position: absolute;
+  top: 1737px;
+  width: 253px;
+}
+
+.artboard-1 .path-103187 {
+  height: 285px;
+  left: 767px;
+  object-fit: cover;
+  position: absolute;
+  top: 4940px;
+  width: 375px;
+}
+
+.artboard-1 .path-103191 {
+  height: 165px;
+  left: 1339px;
+  object-fit: cover;
+  position: absolute;
+  top: 1736px;
+  width: 274px;
+}
+
+.artboard-1 .path-103188 {
+  height: 235px;
+  left: 1317px;
+  object-fit: cover;
+  position: absolute;
+  top: 4972px;
+  width: 321px;
+}
+
+.artboard-1 .group-256 {
+  background-image: url(../img/group-109046@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 286px;
+  left: 801px;
+  position: absolute;
+  top: 1407px;
+  width: 319px;
+}
+
+.artboard-1 .path-103029 {
+  height: 286px;
+  left: 734px;
+  object-fit: cover;
+  position: absolute;
+  top: 2480px;
+  width: 983px;
+}
+
+.artboard-1 .text-4 {
+  color: #9c8bd9;
+  font-family: var(--font-family-gilroy-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  left: 734px;
+  letter-spacing: 0;
+  line-height: 38.4px;
+  position: absolute;
+  top: 2402px;
+  white-space: nowrap;
+}
+
+.artboard-1 .text-5 {
+  left: 734px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 2800px;
+  width: 1127px;
+}
+
+.artboard-1 .group-109057 {
+  display: flex;
+  height: 186px;
+  left: 1537px;
+  position: absolute;
+  top: 1233px;
+  width: 239px;
+}
+
+.artboard-1 .group-109056 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-top: 0;
+  min-width: 239.35px;
+  padding: 0 0.0px;
+}
+
+.artboard-1 .overlap-group3 {
+  height: 186px;
+  margin-top: 0;
+  position: relative;
+  width: 239px;
+}
+
+.artboard-1 .path-102287 {
+  height: 152px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 239px;
+}
+
+.artboard-1 .overlap-group {
+  height: 186px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 239px;
+}
+
+.artboard-1 .path-102288 {
+  height: 64px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 39px;
+  width: 64px;
+}
+
+.artboard-1 .ellipse-3418 {
+  background-color: var(--merino);
+  border-radius: 45.63px;
+  height: 91px;
+  left: 86px;
+  position: absolute;
+  top: 19px;
+  transform: rotate(-45.00deg);
+  width: 91px;
+}
+
+.artboard-1 .path-102289 {
+  height: 73px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 73px;
+}
+
+.artboard-1 .path-102290 {
+  height: 85px;
+  left: 154px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 85px;
+}
+
+.artboard-1 .ellipse-3419 {
+  background-color: var(--merino);
+  border-radius: 42.73px;
+  height: 85px;
+  left: 40px;
+  position: absolute;
+  top: 83px;
+  transform: rotate(-45.00deg);
+  width: 85px;
+}
+
+.artboard-1 .path-102291 {
+  height: 85px;
+  left: 115px;
+  object-fit: cover;
+  position: absolute;
+  top: 85px;
+  width: 85px;
+}
+
+.artboard-1 .group-109054 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-27243-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 152px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 239px;
+  mix-blend-mode: soft-light;
+  opacity: 0.5;
+  position: absolute;
+  top: 19px;
+}
+
+.artboard-1 .overlap-group-1 {
+  height: 152px;
+  margin-bottom: 0;
+  position: relative;
+  width: 239px;
+}
+
+.artboard-1 .rectangle-272 {
+  height: 91px;
+  left: 86px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 91px;
+}
+
+.artboard-1 .rectangle-272-1 {
+  height: 73px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 73px;
+}
+
+.artboard-1 .rectangle-272-2 {
+  height: 85px;
+  left: 115px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 85px;
+}
+
+.artboard-1 .rectangle-272-3 {
+  height: 64px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 64px;
+}
+
+.artboard-1 .rectangle-272-4 {
+  height: 85px;
+  left: 154px;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 85px;
+}
+
+.artboard-1 .rectangle-272-5 {
+  height: 85px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 85px;
+}
+
+.artboard-1 .group-109055 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-27243-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 152px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 239px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 19px;
+}
+
+.artboard-1 .group-109072 {
+  display: flex;
+  height: 186px;
+  left: 140px;
+  position: absolute;
+  top: 1941px;
+  width: 239px;
+}
+
+.artboard-1 .group-109056-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-top: 0;
+  min-width: 239.35px;
+}
+
+.artboard-1 .group-109054-1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-27243-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 152px;
+  left: 0;
+  min-width: 239px;
+  mix-blend-mode: soft-light;
+  opacity: 0.5;
+  position: absolute;
+  top: 19px;
+}
+
+.artboard-1 .overlap-group-2 {
+  height: 152px;
+  position: relative;
+  width: 239px;
+}
+
+.artboard-1 .group-109055-1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-27243-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 152px;
+  left: 0;
+  min-width: 239px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 19px;
+}
+
+.artboard-1 .fatcow-coin {
+  height: 61px;
+  left: 284px;
+  object-fit: cover;
+  position: absolute;
+  top: 1575px;
+  width: 60px;
+}
+
+.artboard-1 .fatcow-coin-1 {
+  height: 34px;
+  left: 301px;
+  object-fit: cover;
+  position: absolute;
+  top: 1432px;
+  width: 33px;
+}
+
+.artboard-1 .fatcow-coin-2 {
+  height: 45px;
+  left: 486px;
+  object-fit: cover;
+  position: absolute;
+  top: 1392px;
+  width: 44px;
+}
+
+.artboard-1 .fatcow-coin-3 {
+  height: 61px;
+  left: 514px;
+  object-fit: cover;
+  position: absolute;
+  top: 1542px;
+  width: 62px;
+}
+
+.artboard-1 .fatcow-coin-4 {
+  height: 65px;
+  left: 538px;
+  object-fit: cover;
+  position: absolute;
+  top: 1401px;
+  width: 65px;
+}
+
+.artboard-1 .fatcow-coin-5 {
+  height: 192px;
+  left: 334px;
+  object-fit: cover;
+  position: absolute;
+  top: 1419px;
+  width: 187px;
+}
+
+.artboard-1 .shoppingcart {
+  height: 361px;
+  left: 1296px;
+  object-fit: cover;
+  position: absolute;
+  top: 1361px;
+  width: 361px;
+}
+
+.artboard-1 .overlap-group12 {
+  height: 475px;
+  left: 140px;
+  position: absolute;
+  top: 2545px;
+  width: 573px;
+}
+
+.artboard-1 .fatcow-coin-6 {
+  height: 47px;
+  left: 58px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 46px;
+}
+
+.artboard-1 .fatcow-coin-7 {
+  height: 82px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 81px;
+}
+
+.artboard-1 .fatcow-coin-8 {
+  height: 47px;
+  left: 186px;
+  object-fit: cover;
+  position: absolute;
+  top: 73px;
+  width: 47px;
+}
+
+.artboard-1 .fatcow-coin-9 {
+  height: 49px;
+  left: 180px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 49px;
+}
+
+.artboard-1 .overlap-group11 {
+  height: 468px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 573px;
+}
+
+.artboard-1 .group-54846 {
+  display: flex;
+  height: 355px;
+  left: 0;
+  position: absolute;
+  top: 113px;
+  width: 573px;
+}
+
+.artboard-1 .group-25461 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  min-width: 573px;
+}
+
+.artboard-1 .overlap-group10 {
+  height: 355px;
+  margin-bottom: 0;
+  position: relative;
+  width: 573px;
+}
+
+.artboard-1 .overlap-group1 {
+  height: 129px;
+  left: 1px;
+  position: absolute;
+  top: 185px;
+  width: 572px;
+}
+
+.artboard-1 .ellipse-1364 {
+  border-radius: 285.75px/43.51px;
+  height: 90px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 39px;
+  width: 572px;
+}
+
+.artboard-1 .ellipse-1365 {
+  border-radius: 201.29px/31.46px;
+  height: 65px;
+  left: 159px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 403px;
+}
+
+.artboard-1 .overlap-group-11 {
+  height: 109px;
+  left: 193px;
+  position: absolute;
+  top: 0;
+  width: 359px;
+}
+
+.artboard-1 .path-22250 {
+  height: 108px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 358px;
+}
+
+.artboard-1 .rectangle-3260 {
+  height: 47px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 358px;
+}
+
+.artboard-1 .rectangle-3261 {
+  height: 87px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 359px;
+}
+
+.artboard-1 .group-25423 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-3262@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 190px;
+  left: 0;
+  min-width: 365px;
+  padding: 5.1px 41.4px;
+  position: absolute;
+  top: 165px;
+}
+
+.artboard-1 .overlap-group2-1 {
+  background-image: url(../img/rectangle-3263@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 179px;
+  position: relative;
+  width: 239px;
+}
+
+.artboard-1 .rectangle-3264 {
+  height: 146px;
+  left: 85px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 145px;
+}
+
+.artboard-1 .rectangle-3265 {
+  height: 130px;
+  left: 14px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 38px;
+  width: 171px;
+}
+
+.artboard-1 .rectangle-3266 {
+  height: 77px;
+  left: 51px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 87px;
+  width: 136px;
+}
+
+.artboard-1 .overlap-group6 {
+  height: 116px;
+  left: 96px;
+  position: absolute;
+  top: 0;
+  width: 116px;
+}
+
+.artboard-1 .overlap-group-12 {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 19px;
+  width: 116px;
+}
+
+.artboard-1 .rectangle-3267 {
+  height: 26px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 94px;
+}
+
+.artboard-1 .rectangle-3268 {
+  height: 70px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 108px;
+}
+
+.artboard-1 .rectangle-3269 {
+  height: 52px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 106px;
+}
+
+.artboard-1 .overlap-group1-1 {
+  height: 93px;
+  left: 22px;
+  position: absolute;
+  top: 23px;
+  width: 90px;
+}
+
+.artboard-1 .mesh-grid {
+  background-image: url(../img/rectangle-3270@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 87px;
+  left: 15px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 6px;
+  width: 69px;
+}
+
+.artboard-1 .j8 {
+  background-image: url(../img/rectangle-3271@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 78px;
+  left: 0;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0;
+  width: 36px;
+}
+
+.artboard-1 .rectangle-3272 {
+  height: 77px;
+  left: 65px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 25px;
+}
+
+.artboard-1 .overlap-group5 {
+  height: 116px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 86px;
+}
+
+.artboard-1 .overlap-group-13 {
+  height: 98px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 84px;
+}
+
+.artboard-1 .rectangle-3273 {
+  height: 9px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.artboard-1 .group-25426 {
+  background-image: url(../img/rectangle-3274@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 83px;
+  justify-content: flex-end;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 51px;
+}
+
+.artboard-1 .rectangle-3275 {
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-top: 4.4px;
+  object-fit: cover;
+  width: 37.73px;
+}
+
+.artboard-1 .rectangle-3276 {
+  height: 85px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 38px;
+}
+
+.artboard-1 .overlap-group4 {
+  height: 36px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 73px;
+}
+
+.artboard-1 .overlap-group-14 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.artboard-1 .mesh-grid-1 {
+  background-image: url(../img/rectangle-3277@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 1px;
+  position: absolute;
+  top: 2px;
+  width: 13px;
+}
+
+.artboard-1 .mesh-grid-2 {
+  background-image: url(../img/rectangle-3278@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  left: 7px;
+  position: absolute;
+  top: 1px;
+  width: 17px;
+}
+
+.artboard-1 .rectangle-3279 {
+  height: 25px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.artboard-1 .overlap-group1-2 {
+  height: 23px;
+  left: 36px;
+  position: absolute;
+  top: 9px;
+  width: 21px;
+}
+
+.artboard-1 .rectangle-3280 {
+  height: 12px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 16px;
+}
+
+.artboard-1 .overlap-group-15 {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.artboard-1 .rectangle-3281 {
+  height: 5px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 8px;
+}
+
+.artboard-1 .rectangle-3282 {
+  height: 17px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.artboard-1 .overlap-group2-2 {
+  height: 20px;
+  left: 36px;
+  position: absolute;
+  top: 17px;
+  width: 37px;
+}
+
+.artboard-1 .mesh-grid-3 {
+  background-image: url(../img/rectangle-3283@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.artboard-1 .rectangle-3284 {
+  height: 16px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.artboard-1 .rectangle-3285 {
+  height: 20px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.artboard-1 .overlap-group3-2 {
+  height: 26px;
+  left: 13px;
+  position: absolute;
+  top: 6px;
+  width: 26px;
+}
+
+.artboard-1 .overlap-group-16 {
+  height: 22px;
+  left: 14px;
+  position: absolute;
+  top: 4px;
+  width: 12px;
+}
+
+.artboard-1 .rectangle-3286 {
+  height: 20px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 10px;
+}
+
+.artboard-1 .rectangle-3287 {
+  height: 22px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.artboard-1 .rectangle-3288 {
+  height: 26px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.artboard-1 .overlap-group8 {
+  height: 131px;
+  left: 9px;
+  position: absolute;
+  top: 73px;
+  width: 138px;
+}
+
+.artboard-1 .overlap-group-17 {
+  height: 114px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 138px;
+}
+
+.artboard-1 .rectangle-3289 {
+  height: 51px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 104px;
+}
+
+.artboard-1 .rectangle-3290 {
+  height: 74px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 118px;
+}
+
+.artboard-1 .rectangle-3291 {
+  height: 89px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 124px;
+}
+
+.artboard-1 .overlap-group7 {
+  height: 131px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 112px;
+}
+
+.artboard-1 .overlap-group-18 {
+  height: 101px;
+  left: 4px;
+  position: absolute;
+  top: 30px;
+  width: 107px;
+}
+
+.artboard-1 .mesh-grid-4 {
+  background-image: url(../img/rectangle-3292@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 75px;
+  left: 0;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 22px;
+  width: 38px;
+}
+
+.artboard-1 .mesh-grid-5 {
+  background-image: url(../img/rectangle-3293@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 70px;
+  left: 54px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.artboard-1 .rectangle-3294 {
+  height: 90px;
+  left: 9px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 85px;
+}
+
+.artboard-1 .rectangle-3295 {
+  height: 90px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 86px;
+}
+
+.artboard-1 .rectangle-3296 {
+  height: 89px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 49px;
+}
+
+.artboard-1 .rectangle-3297 {
+  height: 81px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 71px;
+}
+
+.artboard-1 .overlap-group6-1 {
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.artboard-1 .group-25444 {
+  align-items: flex-start;
+  display: flex;
+  height: 49px;
+  left: 6px;
+  min-width: 75px;
+  position: absolute;
+  top: 0;
+}
+
+.artboard-1 .overlap-group3-3 {
+  align-self: flex-end;
+  height: 32px;
+  margin-bottom: 0;
+  position: relative;
+  width: 32px;
+}
+
+.artboard-1 .rectangle-3304 {
+  height: 7px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 15px;
+}
+
+.artboard-1 .overlap-group2-3 {
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.artboard-1 .overlap-group-19 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.artboard-1 .rectangle-3305 {
+  height: 9px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 19px;
+}
+
+.artboard-1 .rectangle-3306 {
+  height: 20px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 31px;
+}
+
+.artboard-1 .rectangle-3307 {
+  height: 7px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 12px;
+}
+
+.artboard-1 .rectangle-3308 {
+  height: 8px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 18px;
+}
+
+.artboard-1 .overlap-group1-3 {
+  height: 33px;
+  margin-left: 1px;
+  position: relative;
+  width: 42px;
+}
+
+.artboard-1 .mesh-grid-6 {
+  background-image: url(../img/rectangle-3298@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 12px;
+  left: 25px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 17px;
+  width: 17px;
+}
+
+.artboard-1 .rectangle-3299 {
+  height: 9px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 15px;
+}
+
+.artboard-1 .group-25440 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 33px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.artboard-1 .group-25439 {
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  min-width: 30px;
+}
+
+.artboard-1 .overlap-group-20 {
+  height: 25px;
+  position: relative;
+  width: 30px;
+}
+
+.artboard-1 .rectangle-3301 {
+  height: 20px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 21px;
+}
+
+.artboard-1 .rectangle-3302 {
+  height: 25px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.artboard-1 .rectangle-3303 {
+  height: 15px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.artboard-1 .rectangle-3300 {
+  height: 5px;
+  margin-right: 5.08px;
+  margin-top: 3px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.artboard-1 .overlap-group4-1 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 33px;
+  width: 40px;
+}
+
+.artboard-1 .rectangle-3309 {
+  height: 18px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.artboard-1 .rectangle-3310 {
+  height: 22px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 33px;
+}
+
+.artboard-1 .rectangle-3311 {
+  height: 22px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.artboard-1 .overlap-group5-1 {
+  height: 31px;
+  left: 36px;
+  position: absolute;
+  top: 12px;
+  width: 30px;
+}
+
+.artboard-1 .rectangle-3312 {
+  height: 21px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 19px;
+}
+
+.artboard-1 .rectangle-3313 {
+  height: 28px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.artboard-1 .rectangle-3314 {
+  height: 18px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 14px;
+}
+
+.artboard-1 .overlap-group9 {
+  height: 171px;
+  left: 85px;
+  position: absolute;
+  top: 139px;
+  width: 156px;
+}
+
+.artboard-1 .overlap-group-21 {
+  height: 169px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 156px;
+}
+
+.artboard-1 .rectangle-3315 {
+  height: 87px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 155px;
+}
+
+.artboard-1 .rectangle-3316 {
+  height: 102px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.artboard-1 .rectangle-3317 {
+  height: 97px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 72px;
+  width: 147px;
+}
+
+.artboard-1 .group-25451 {
+  align-items: flex-start;
+  display: flex;
+  height: 95px;
+  justify-content: flex-end;
+  left: 18px;
+  min-width: 117px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 60px;
+}
+
+.artboard-1 .overlap-group1-4 {
+  height: 95px;
+  margin-top: 0;
+  position: relative;
+  width: 99px;
+}
+
+.artboard-1 .rectangle-3319 {
+  height: 95px;
+  left: 20px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 79px;
+}
+
+.artboard-1 .mesh-grid-7 {
+  background-image: url(../img/rectangle-3320@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 27px;
+}
+
+.artboard-1 .rectangle-3318 {
+  height: 71px;
+  margin-left: 1px;
+  margin-top: 5.81px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  width: 17px;
+}
+
+.artboard-1 .overlap-group5-2 {
+  height: 155px;
+  left: 22px;
+  position: absolute;
+  top: 0;
+  width: 108px;
+}
+
+.artboard-1 .group-25453 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 132px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 22px;
+  width: 108px;
+}
+
+.artboard-1 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 19px;
+  margin-left: 0.73px;
+  min-width: 97px;
+}
+
+.artboard-1 .rectangle-3321 {
+  height: 17px;
+  object-fit: cover;
+  width: 24px;
+}
+
+.artboard-1 .rectangle-3322 {
+  align-self: flex-end;
+  height: 13px;
+  margin-left: 57px;
+  object-fit: cover;
+  width: 17px;
+}
+
+.artboard-1 .overlap-group-22 {
+  height: 96px;
+  margin-top: 17px;
+  position: relative;
+  width: 108px;
+}
+
+.artboard-1 .group-25452 {
+  display: flex;
+  height: 92px;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 108px;
+}
+
+.artboard-1 .rectangle-3324 {
+  margin-bottom: 2.2px;
+  margin-left: 0;
+  margin-top: 0;
+  object-fit: cover;
+  width: 47.89px;
+}
+
+.artboard-1 .rectangle-3323 {
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-top: 2.9px;
+  object-fit: cover;
+  width: 42.09px;
+}
+
+.artboard-1 .rectangle-3325 {
+  height: 96px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 80px;
+}
+
+.artboard-1 .overlap-group4-2 {
+  height: 73px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 94px;
+}
+
+.artboard-1 .overlap-group-23 {
+  height: 35px;
+  left: 1px;
+  position: absolute;
+  top: 36px;
+  width: 46px;
+}
+
+.artboard-1 .rectangle-3326 {
+  height: 19px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 26px;
+}
+
+.artboard-1 .rectangle-3327 {
+  height: 35px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.artboard-1 .rectangle-3328 {
+  height: 22px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 30px;
+}
+
+.artboard-1 .overlap-group1-5 {
+  height: 34px;
+  left: 44px;
+  position: absolute;
+  top: 39px;
+  width: 49px;
+}
+
+.artboard-1 .rectangle-3329 {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 33px;
+}
+
+.artboard-1 .rectangle-3330 {
+  height: 33px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 49px;
+}
+
+.artboard-1 .rectangle-3331 {
+  height: 25px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 36px;
+}
+
+.artboard-1 .overlap-group2-4 {
+  height: 44px;
+  left: 41px;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.artboard-1 .rectangle-3332 {
+  height: 26px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 25px;
+}
+
+.artboard-1 .rectangle-3333 {
+  height: 44px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.artboard-1 .rectangle-3334 {
+  height: 30px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 30px;
+}
+
+.artboard-1 .overlap-group3-4 {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.artboard-1 .rectangle-3335 {
+  height: 28px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 25px;
+}
+
+.artboard-1 .rectangle-3336 {
+  height: 45px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 43px;
+}
+
+.artboard-1 .rectangle-3337 {
+  height: 33px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 31px;
+}
+
+.artboard-1 .rectangle-3338 {
+  height: 15px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 38px;
+  width: 20px;
+}
+
+.artboard-1 .fatcow-champgne {
+  height: 322px;
+  left: 246px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 293px;
+}
+
+.artboard-1 .overlap-group13 {
+  height: 953px;
+  left: 1017px;
+  position: absolute;
+  top: 128px;
+  width: 953px;
+}
+
+.artboard-1 .group-55208 {
+  display: flex;
+  height: 263px;
+  left: 161px;
+  position: absolute;
+  top: 193px;
+  transform: rotate(14.00deg);
+  width: 285px;
+}
+
+.artboard-1 .group-55207 {
+  flex: 1;
+  margin-bottom: -30.5px;
+  margin-left: -27.6px;
+  margin-right: -27.6px;
+  margin-top: -30.5px;
+  object-fit: cover;
+  transform: rotate(-14.00deg);
+  width: 339.76px;
+}
+
+.artboard-1 .rectangle-4 {
+  height: 953px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 953px;
+}
+
+.artboard-1 .group-109076 {
+  align-items: flex-end;
+  display: flex;
+  height: 495px;
+  justify-content: flex-end;
+  left: 118px;
+  min-width: 668px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 232px;
+}
+
+.artboard-1 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 44.54px;
+  min-height: 274px;
+  width: 159px;
+}
+
+.artboard-1 .fatcow-coin-10 {
+  height: 82px;
+  object-fit: cover;
+  width: 81px;
+}
+
+.artboard-1 .fatcow-coin-11 {
+  align-self: flex-end;
+  height: 140px;
+  margin-top: 52px;
+  object-fit: cover;
+  width: 138px;
+}
+
+.artboard-1 .overlap-group1-6 {
+  height: 495px;
+  margin-bottom: 0;
+  margin-left: 15px;
+  position: relative;
+  width: 494px;
+}
+
+.artboard-1 .overlap-group-24 {
+  height: 461px;
+  left: 0;
+  position: absolute;
+  top: 34px;
+  width: 494px;
+}
+
+.artboard-1 .fatcow-coin-12 {
+  height: 224px;
+  left: 276px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 218px;
+}
+
+.artboard-1 .fatcow-normal {
+  height: 382px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 314px;
+}
+
+.artboard-1 .fatcow-coin-13 {
+  height: 77px;
+  left: 98px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 76px;
+}
+
+.artboard-1 .path-103030 {
+  height: 52px;
+  left: 717px;
+  object-fit: cover;
+  position: absolute;
+  top: 3310px;
+  width: 483px;
+}
+
+.artboard-1 .path-103031 {
+  height: 57px;
+  left: 238px;
+  object-fit: cover;
+  position: absolute;
+  top: 3605px;
+  width: 283px;
+}
+
+.artboard-1 .text-6 {
+  left: 236px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 3673px;
+  white-space: nowrap;
+}
+
+.artboard-1 .text-7 {
+  left: 1016px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 4212px;
+  white-space: nowrap;
+}
+
+.artboard-1 .path-103032 {
+  height: 45px;
+  left: 1017px;
+  object-fit: cover;
+  position: absolute;
+  top: 4144px;
+  width: 226px;
+}
+
+.artboard-1 .group-109084 {
+  display: flex;
+  height: 129px;
+  left: 560px;
+  position: absolute;
+  top: 3931px;
+  transform: rotate(25.00deg);
+  width: 127px;
+}
+
+.artboard-1 .group-109083 {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 126.52px;
+}
+
+.artboard-1 .group-109082 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  width: 126.52px;
+}
+
+.artboard-1 .group-109081 {
+  flex: 1;
+  margin-bottom: -20.7px;
+  margin-left: -21.4px;
+  margin-right: -21.4px;
+  margin-top: -20.7px;
+  object-fit: cover;
+  transform: rotate(-25.00deg);
+  width: 169.35px;
+}
+
+.artboard-1 .rectangle-27291 {
+  background-color: #1f1f1f;
+  height: 822px;
+  left: 180px;
+  position: absolute;
+  top: 5776px;
+  width: 1559px;
+}
+
+.artboard-1 .path-103033 {
+  height: 52px;
+  left: 687px;
+  object-fit: cover;
+  position: absolute;
+  top: 5597px;
+  width: 549px;
+}
+
+.artboard-1 .overlap-group14 {
+  height: 197px;
+  left: 306px;
+  position: absolute;
+  top: 7657px;
+  width: 175px;
+}
+
+.artboard-1 .group-109092 {
+  background-image: url(../img/path-102311@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 108px;
+  left: 0;
+  position: absolute;
+  top: 82px;
+  width: 174px;
+}
+
+.artboard-1 .path-102312 {
+  height: 43px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 154px;
+  width: 57px;
+}
+
+.artboard-1 .path-102313 {
+  height: 78px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 118px;
+  width: 118px;
+}
+
+.artboard-1 .path-102314 {
+  height: 78px;
+  left: 57px;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 118px;
+  width: 118px;
+}
+
+.artboard-1 .path-102315 {
+  height: 89px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 91px;
+  width: 148px;
+}
+
+.artboard-1 .path-102316 {
+  height: 4px;
+  left: 156px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 5px;
+}
+
+.artboard-1 .path-102317 {
+  height: 8px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 99px;
+  width: 12px;
+}
+
+.artboard-1 .path-102318 {
+  height: 9px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 162px;
+  width: 12px;
+}
+
+.artboard-1 .overlap-group4-3 {
+  height: 162px;
+  left: 51px;
+  position: absolute;
+  top: 0;
+  width: 73px;
+}
+
+.artboard-1 .overlap-group1-7 {
+  height: 102px;
+  left: 47px;
+  position: absolute;
+  top: 29px;
+  width: 26px;
+}
+
+.artboard-1 .overlap-group-25 {
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 26px;
+}
+
+.artboard-1 .path-102319 {
+  height: 16px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.artboard-1 .path-102320 {
+  height: 16px;
+  left: 0;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.artboard-1 .path-102321 {
+  height: 72px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 13px;
+}
+
+.artboard-1 .path-102322 {
+  height: 72px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 13px;
+}
+
+.artboard-1 .path-102323 {
+  height: 72px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 13px;
+}
+
+.artboard-1 .rectangle-27295 {
+  height: 36px;
+  left: 12px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.artboard-1 .rectangle-2729 {
+  height: 36px;
+  left: 3px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.artboard-1 .overlap-group2-5 {
+  height: 123px;
+  left: 11px;
+  position: absolute;
+  top: 26px;
+  width: 40px;
+}
+
+.artboard-1 .path-102324 {
+  height: 25px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.artboard-1 .path-102325 {
+  height: 25px;
+  left: 0;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.artboard-1 .path-102326 {
+  height: 111px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+.artboard-1 .path-102327 {
+  height: 111px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+.artboard-1 .path-102328 {
+  height: 111px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+.artboard-1 .overlap-group3-5 {
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 88px;
+  width: 24px;
+}
+
+.artboard-1 .path-102329 {
+  height: 15px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.artboard-1 .path-102330 {
+  height: 15px;
+  left: 0;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.artboard-1 .path-102331 {
+  height: 66px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 12px;
+}
+
+.artboard-1 .path-102332 {
+  height: 66px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 12px;
+}
+
+.artboard-1 .path-102333 {
+  height: 66px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 12px;
+}
+
+.artboard-1 .rectangle-27298 {
+  height: 28px;
+  left: 11px;
+  object-fit: cover;
+  position: absolute;
+  top: 72px;
+  width: 10px;
+}
+
+.artboard-1 .rectangle-27299 {
+  height: 28px;
+  left: 4px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 72px;
+  width: 8px;
+}
+
+.artboard-1 .rectangle-27300 {
+  height: 28px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 72px;
+  width: 8px;
+}
+
+.artboard-1 .rectangle-27301 {
+  height: 46px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.artboard-1 .rectangle-27302 {
+  height: 46px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.artboard-1 .overlap-group5-3 {
+  height: 10px;
+  left: 125px;
+  position: absolute;
+  top: 124px;
+  width: 14px;
+}
+
+.artboard-1 .path-1023 {
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.artboard-1 .path-1023-1 {
+  height: 6px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.artboard-1 .path-1023-2 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.artboard-1 .path-1023-3 {
+  height: 8px;
+  left: 0;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.artboard-1 .path-1023-4 {
+  height: 6px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.artboard-1 .overlap-group6-2 {
+  height: 10px;
+  left: 114px;
+  position: absolute;
+  top: 131px;
+  width: 14px;
+}
+
+.artboard-1 .overlap-group7-1 {
+  height: 10px;
+  left: 103px;
+  position: absolute;
+  top: 138px;
+  width: 14px;
+}
+
+.artboard-1 .overlap-group8-1 {
+  height: 10px;
+  left: 92px;
+  position: absolute;
+  top: 145px;
+  width: 14px;
+}
+
+.artboard-1 .overlap-group9-1 {
+  height: 10px;
+  left: 81px;
+  position: absolute;
+  top: 152px;
+  width: 14px;
+}
+
+.artboard-1 .overlap-group10-1 {
+  height: 10px;
+  left: 69px;
+  position: absolute;
+  top: 159px;
+  width: 14px;
+}
+
+.artboard-1 .overlap-group16 {
+  height: 191px;
+  left: 325px;
+  position: absolute;
+  top: 7061px;
+  width: 128px;
+}
+
+.artboard-1 .overlap-group-26 {
+  height: 43px;
+  left: 35px;
+  position: absolute;
+  top: 149px;
+  width: 64px;
+}
+
+.artboard-1 .path-102364 {
+  height: 40px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 64px;
+}
+
+.artboard-1 .path-102365 {
+  height: 40px;
+  left: 0;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 64px;
+}
+
+.artboard-1 .path-102366 {
+  height: 30px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 42px;
+}
+
+.artboard-1 .path-102367 {
+  height: 16px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 21px;
+}
+
+.artboard-1 .path-102368 {
+  height: 16px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 21px;
+}
+
+.artboard-1 .overlap-group1-8 {
+  height: 39px;
+  left: 50px;
+  position: absolute;
+  top: 141px;
+  width: 33px;
+}
+
+.artboard-1 .path-102369 {
+  height: 37px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 30px;
+}
+
+.artboard-1 .path-102370 {
+  height: 37px;
+  left: 3px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 30px;
+}
+
+.artboard-1 .path-102371 {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 3px;
+}
+
+.artboard-1 .path-102372 {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 33px;
+}
+
+.artboard-1 .path-102373 {
+  height: 186px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 120px;
+}
+
+.artboard-1 .path-102374 {
+  height: 167px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 108px;
+}
+
+.artboard-1 .path-102375 {
+  height: 100px;
+  left: 14px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 108px;
+}
+
+.artboard-1 .path-102376 {
+  height: 78px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 126px;
+}
+
+.artboard-1 .path-102377 {
+  height: 115px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 6px;
+}
+
+.artboard-1 .path-102378 {
+  height: 78px;
+  left: 2px;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 126px;
+}
+
+.artboard-1 .path-102379 {
+  height: 115px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 6px;
+}
+
+.artboard-1 .overlap-group2-6 {
+  height: 134px;
+  left: 32px;
+  position: absolute;
+  top: 6px;
+  width: 73px;
+}
+
+.artboard-1 .path-102380 {
+  height: 105px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 62px;
+}
+
+.artboard-1 .path-102381 {
+  height: 70px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 26px;
+}
+
+.artboard-1 .path-102382 {
+  height: 24px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 73px;
+  width: 36px;
+}
+
+.artboard-1 .path-102383 {
+  height: 50px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 4px;
+}
+
+.artboard-1 .path-102384 {
+  height: 70px;
+  left: 0;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 26px;
+}
+
+.artboard-1 .path-102385 {
+  height: 24px;
+  left: 28px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 73px;
+  width: 36px;
+}
+
+.artboard-1 .path-102386 {
+  height: 50px;
+  left: 55px;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 4px;
+}
+
+.artboard-1 .overlap-group-27 {
+  height: 40px;
+  left: 45px;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.artboard-1 .path-102387 {
+  height: 38px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 24px;
+}
+
+.artboard-1 .path-102388 {
+  height: 40px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.artboard-1 .path-102389 {
+  height: 40px;
+  left: 0;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.artboard-1 .overlap-group3-6 {
+  height: 20px;
+  left: 22px;
+  position: absolute;
+  top: 143px;
+  width: 12px;
+}
+
+.artboard-1 .path-102 {
+  height: 19px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 10px;
+}
+
+.artboard-1 .path-102-1 {
+  height: 14px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.artboard-1 .path-102-2 {
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.artboard-1 .path-102-3 {
+  height: 14px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.artboard-1 .path-102-4 {
+  height: 8px;
+  left: 0;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.artboard-1 .overlap-group4-4 {
+  height: 20px;
+  left: 42px;
+  position: absolute;
+  top: 131px;
+  width: 12px;
+}
+
+.artboard-1 .overlap-group5-4 {
+  height: 20px;
+  left: 62px;
+  position: absolute;
+  top: 119px;
+  width: 12px;
+}
+
+.artboard-1 .overlap-group6-3 {
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  width: 15px;
+}
+
+.artboard-1 .path-1024 {
+  height: 24px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+
+.artboard-1 .path-1024-1 {
+  height: 18px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 2px;
+}
+
+.artboard-1 .path-1024-2 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.artboard-1 .path-1024-3 {
+  height: 18px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 2px;
+}
+
+.artboard-1 .path-1024-4 {
+  height: 10px;
+  left: 0;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.artboard-1 .overlap-group7-2 {
+  height: 26px;
+  left: 25px;
+  position: absolute;
+  top: 27px;
+  width: 15px;
+}
+
+.artboard-1 .overlap-group8-2 {
+  height: 26px;
+  left: 50px;
+  position: absolute;
+  top: 12px;
+  width: 15px;
+}
+
+.artboard-1 .overlap-group9-2 {
+  height: 20px;
+  left: 81px;
+  position: absolute;
+  top: 107px;
+  width: 12px;
+}
+
+.artboard-1 .overlap-group10-2 {
+  height: 20px;
+  left: 101px;
+  position: absolute;
+  top: 95px;
+  width: 12px;
+}
+
+.artboard-1 .overlap-group11-1 {
+  height: 8px;
+  left: 107px;
+  position: absolute;
+  top: 31px;
+  width: 5px;
+}
+
+.artboard-1 .path-1024-5 {
+  height: 8px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.artboard-1 .path-1024-6 {
+  height: 6px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.artboard-1 .path-1024-7 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.artboard-1 .path-1024-8 {
+  height: 6px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.artboard-1 .path-1024-9 {
+  height: 3px;
+  left: 0;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.artboard-1 .overlap-group12-1 {
+  height: 8px;
+  left: 107px;
+  position: absolute;
+  top: 42px;
+  width: 5px;
+}
+
+.artboard-1 .overlap-group13-1 {
+  height: 8px;
+  left: 107px;
+  position: absolute;
+  top: 54px;
+  width: 5px;
+}
+
+.artboard-1 .overlap-group14-1 {
+  height: 8px;
+  left: 107px;
+  position: absolute;
+  top: 65px;
+  width: 5px;
+}
+
+.artboard-1 .overlap-group15 {
+  height: 8px;
+  left: 107px;
+  position: absolute;
+  top: 76px;
+  width: 5px;
+}
+
+.artboard-1 .overlap-group17 {
+  height: 181px;
+  left: 895px;
+  position: absolute;
+  top: 7664px;
+  width: 171px;
+}
+
+.artboard-1 .overlap-group-28 {
+  height: 157px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 111px;
+}
+
+.artboard-1 .path-102-5 {
+  height: 150px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 101px;
+}
+
+.artboard-1 .path-102-6 {
+  height: 69px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 111px;
+}
+
+.artboard-1 .path-102-7 {
+  height: 94px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 10px;
+}
+
+.artboard-1 .path-102-8 {
+  height: 69px;
+  left: 0;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 111px;
+}
+
+.artboard-1 .path-102-9 {
+  height: 94px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 10px;
+}
+
+.artboard-1 .path-102460 {
+  height: 75px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 101px;
+}
+
+.artboard-1 .path-102462 {
+  height: 19px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 10px;
+}
+
+.artboard-1 .path-102464 {
+  height: 19px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 10px;
+}
+
+.artboard-1 .overlap-group1-9 {
+  height: 7px;
+  left: 14px;
+  position: absolute;
+  top: 68px;
+  width: 4px;
+}
+
+.artboard-1 .path-102-10 {
+  height: 6px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.artboard-1 .path-102-11 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.artboard-1 .path-102-12 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.artboard-1 .path-102-13 {
+  height: 5px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.artboard-1 .path-102-14 {
+  height: 2px;
+  left: 0;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.artboard-1 .overlap-group2-7 {
+  height: 7px;
+  left: 20px;
+  position: absolute;
+  top: 64px;
+  width: 4px;
+}
+
+.artboard-1 .overlap-group3-7 {
+  height: 19px;
+  left: 18px;
+  position: absolute;
+  top: 80px;
+  width: 11px;
+}
+
+.artboard-1 .path-1024-10 {
+  height: 18px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 9px;
+}
+
+.artboard-1 .path-102-15 {
+  height: 13px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.artboard-1 .path-102-16 {
+  height: 7px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.artboard-1 .path-1024-11 {
+  height: 13px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.artboard-1 .path-102-17 {
+  height: 7px;
+  left: 0;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.artboard-1 .overlap-group4-5 {
+  height: 19px;
+  left: 19px;
+  position: absolute;
+  top: 99px;
+  width: 11px;
+}
+
+.artboard-1 .overlap-group5-5 {
+  height: 19px;
+  left: 20px;
+  position: absolute;
+  top: 117px;
+  width: 11px;
+}
+
+.artboard-1 .overlap-group6-4 {
+  height: 19px;
+  left: 21px;
+  position: absolute;
+  top: 135px;
+  width: 11px;
+}
+
+.artboard-1 .overlap-group7-3 {
+  height: 7px;
+  left: 26px;
+  position: absolute;
+  top: 61px;
+  width: 4px;
+}
+
+.artboard-1 .overlap-group8-3 {
+  height: 157px;
+  left: 42px;
+  position: absolute;
+  top: 25px;
+  width: 111px;
+}
+
+.artboard-1 .path-102505 {
+  height: 78px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 52px;
+}
+
+.artboard-1 .path-102506 {
+  height: 32px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 35px;
+}
+
+.artboard-1 .path-102507 {
+  height: 32px;
+  left: 89px;
+  object-fit: cover;
+  position: absolute;
+  top: 95px;
+  width: 35px;
+}
+
+.artboard-1 .path-102508 {
+  height: 35px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 57px;
+}
+
+.artboard-1 .path-102509 {
+  height: 35px;
+  left: 75px;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 57px;
+}
+
+.artboard-1 .path-102510 {
+  height: 49px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 93px;
+  width: 5px;
+}
+
+.artboard-1 .path-102511 {
+  height: 49px;
+  left: 75px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 93px;
+  width: 5px;
+}
+
+.artboard-1 .path-102512 {
+  height: 75px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 101px;
+}
+
+.artboard-1 .path-102513 {
+  height: 69px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 111px;
+}
+
+.artboard-1 .path-102514 {
+  height: 19px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 10px;
+}
+
+.artboard-1 .path-102515 {
+  height: 69px;
+  left: 42px;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 111px;
+}
+
+.artboard-1 .path-102516 {
+  height: 19px;
+  left: 42px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 10px;
+}
+
+.artboard-1 .group-109132 {
+  background-image: url(../img/path-102517@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 93px;
+  position: absolute;
+  top: 103px;
+  width: 3px;
+}
+
+.artboard-1 .group-109133 {
+  background-image: url(../img/path-102517@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 97px;
+  position: absolute;
+  top: 101px;
+  width: 3px;
+}
+
+.artboard-1 .group-109134 {
+  background-image: url(../img/path-102517@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 101px;
+  position: absolute;
+  top: 98px;
+  width: 3px;
+}
+
+.artboard-1 .group-109135 {
+  background-image: url(../img/path-102517@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 105px;
+  position: absolute;
+  top: 95px;
+  width: 3px;
+}
+
+.artboard-1 .group-109136 {
+  background-image: url(../img/path-102517@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 109px;
+  position: absolute;
+  top: 93px;
+  width: 3px;
+}
+
+.artboard-1 .group-109137 {
+  background-image: url(../img/path-102517@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 113px;
+  position: absolute;
+  top: 90px;
+  width: 3px;
+}
+
+.artboard-1 .group-109138 {
+  background-image: url(../img/path-102517@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 95px;
+  position: absolute;
+  top: 116px;
+  width: 3px;
+}
+
+.artboard-1 .group-109139 {
+  background-image: url(../img/path-102517@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 99px;
+  position: absolute;
+  top: 113px;
+  width: 3px;
+}
+
+.artboard-1 .group-109140 {
+  background-image: url(../img/path-102517@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 104px;
+  position: absolute;
+  top: 110px;
+  width: 3px;
+}
+
+.artboard-1 .group-109141 {
+  background-image: url(../img/path-102517@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 108px;
+  position: absolute;
+  top: 108px;
+  width: 3px;
+}
+
+.artboard-1 .group-109142 {
+  background-image: url(../img/path-102517@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 112px;
+  position: absolute;
+  top: 105px;
+  width: 3px;
+}
+
+.artboard-1 .group-109143 {
+  background-image: url(../img/path-102528@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 116px;
+  position: absolute;
+  top: 102px;
+  width: 3px;
+}
+
+.artboard-1 .overlap-group9-3 {
+  height: 7px;
+  left: 56px;
+  position: absolute;
+  top: 80px;
+  width: 4px;
+}
+
+.artboard-1 .overlap-group10-3 {
+  height: 7px;
+  left: 62px;
+  position: absolute;
+  top: 77px;
+  width: 4px;
+}
+
+.artboard-1 .overlap-group11-2 {
+  height: 7px;
+  left: 68px;
+  position: absolute;
+  top: 73px;
+  width: 4px;
+}
+
+.artboard-1 .group-109152 {
+  display: flex;
+  height: 46px;
+  left: 128px;
+  position: absolute;
+  top: 96px;
+  width: 43px;
+}
+
+.artboard-1 .group-109151 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  min-width: 43.04px;
+}
+
+.artboard-1 .overlap-group-29 {
+  height: 46px;
+  margin-bottom: 0;
+  position: relative;
+  width: 43px;
+}
+
+.artboard-1 .group-109147 {
+  background-image: url(../img/path-102544@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 17px;
+  left: 18px;
+  position: absolute;
+  top: 30px;
+  width: 16px;
+}
+
+.artboard-1 .group-109148 {
+  background-image: url(../img/path-102545@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.artboard-1 .group-109149 {
+  background-image: url(../img/path-102545@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 4px;
+  position: absolute;
+  top: 19px;
+  width: 6px;
+}
+
+.artboard-1 .group-109150 {
+  background-image: url(../img/path-102547@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 45px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.artboard-1 .path-102548 {
+  height: 14px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: 101px;
+  width: 6px;
+}
+
+.artboard-1 .path-102549 {
+  height: 15px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: 115px;
+  width: 6px;
+}
+
+.artboard-1 .group-109210 {
+  height: 183px;
+  left: 1470px;
+  position: absolute;
+  top: 7053px;
+  width: 142px;
+}
+
+.artboard-1 .overlap-group18 {
+  height: 183px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 142px;
+}
+
+.artboard-1 .overlap-group-30 {
+  height: 95px;
+  left: 0;
+  position: absolute;
+  top: 88px;
+  width: 142px;
+}
+
+.artboard-1 .path-102550 {
+  height: 88px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 142px;
+}
+
+.artboard-1 .path-102551 {
+  height: 61px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 87px;
+}
+
+.artboard-1 .path-102552 {
+  height: 41px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 55px;
+}
+
+.artboard-1 .path-102553 {
+  height: 41px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 55px;
+}
+
+.artboard-1 .path-102554 {
+  height: 120px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 31px;
+  width: 10px;
+}
+
+.artboard-1 .path-102555 {
+  height: 151px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 61px;
+}
+
+.artboard-1 .path-102556 {
+  height: 120px;
+  left: 14px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 31px;
+  width: 10px;
+}
+
+.artboard-1 .path-102557 {
+  height: 55px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 51px;
+}
+
+.artboard-1 .path-102558 {
+  height: 55px;
+  left: 30px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 51px;
+}
+
+.artboard-1 .overlap-group1-10 {
+  height: 14px;
+  left: 30px;
+  position: absolute;
+  top: 70px;
+  width: 8px;
+}
+
+.artboard-1 .path-102-18 {
+  height: 13px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 7px;
+}
+
+.artboard-1 .path-102-19 {
+  height: 9px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.artboard-1 .path-102-20 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.artboard-1 .path-102-21 {
+  height: 9px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.artboard-1 .path-102-22 {
+  height: 5px;
+  left: 0;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.artboard-1 .overlap-group2-8 {
+  height: 14px;
+  left: 41px;
+  position: absolute;
+  top: 64px;
+  width: 8px;
+}
+
+.artboard-1 .overlap-group3-8 {
+  height: 14px;
+  left: 51px;
+  position: absolute;
+  top: 58px;
+  width: 8px;
+}
+
+.artboard-1 .overlap-group4-6 {
+  height: 14px;
+  left: 61px;
+  position: absolute;
+  top: 52px;
+  width: 8px;
+}
+
+.artboard-1 .group-109163 {
+  align-items: center;
+  display: flex;
+  height: 42px;
+  left: 30px;
+  min-width: 51px;
+  position: absolute;
+  top: 60px;
+}
+
+.artboard-1 .group-109159 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  justify-content: center;
+  min-width: 11px;
+}
+
+.artboard-1 .overlap-group-3 {
+  height: 18px;
+  margin-top: 0;
+  position: relative;
+  width: 11px;
+}
+
+.artboard-1 .path-102-23 {
+  height: 17px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 9px;
+}
+
+.artboard-1 .path-102-24 {
+  height: 12px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.artboard-1 .path-102-25 {
+  height: 12px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.artboard-1 .group-109160 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  margin-left: 3px;
+  margin-top: 7.94px;
+  min-width: 11px;
+}
+
+.artboard-1 .group-109161 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 7.94px;
+  margin-left: 3px;
+  min-width: 11px;
+}
+
+.artboard-1 .group-109162 {
+  align-items: flex-end;
+  align-self: flex-start;
+  display: flex;
+  margin-left: 3px;
+  min-width: 11px;
+}
+
+.artboard-1 .overlap-group3-9 {
+  height: 18px;
+  margin-bottom: 0;
+  position: relative;
+  width: 11px;
+}
+
+.artboard-1 .overlap-group5-6 {
+  height: 18px;
+  left: 30px;
+  position: absolute;
+  top: 101px;
+  width: 11px;
+}
+
+.artboard-1 .overlap-group6-5 {
+  height: 18px;
+  left: 44px;
+  position: absolute;
+  top: 93px;
+  width: 11px;
+}
+
+.artboard-1 .overlap-group7-4 {
+  height: 18px;
+  left: 57px;
+  position: absolute;
+  top: 85px;
+  width: 11px;
+}
+
+.artboard-1 .overlap-group8-4 {
+  height: 35px;
+  left: 70px;
+  position: absolute;
+  top: 77px;
+  width: 11px;
+}
+
+.artboard-1 .overlap-group-31 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.artboard-1 .path-102617 {
+  height: 34px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 9px;
+}
+
+.artboard-1 .path-102618 {
+  height: 18px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 2px;
+}
+
+.artboard-1 .path-102619 {
+  height: 30px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 2px;
+}
+
+.artboard-1 .overlap-group9-4 {
+  height: 18px;
+  left: 30px;
+  position: absolute;
+  top: 118px;
+  width: 11px;
+}
+
+.artboard-1 .overlap-group10-4 {
+  height: 18px;
+  left: 44px;
+  position: absolute;
+  top: 110px;
+  width: 11px;
+}
+
+.artboard-1 .overlap-group11-3 {
+  height: 18px;
+  left: 57px;
+  position: absolute;
+  top: 102px;
+  width: 11px;
+}
+
+.artboard-1 .overlap-group12-2 {
+  height: 14px;
+  left: 71px;
+  position: absolute;
+  top: 46px;
+  width: 8px;
+}
+
+.artboard-1 .path-102640 {
+  height: 15px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 44px;
+  width: 7px;
+}
+
+.artboard-1 .overlap-group13-2 {
+  height: 47px;
+  left: 36px;
+  position: absolute;
+  top: 114px;
+  width: 38px;
+}
+
+.artboard-1 .path-102641 {
+  height: 35px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 19px;
+}
+
+.artboard-1 .path-102642 {
+  height: 35px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 19px;
+}
+
+.artboard-1 .path-102-26 {
+  height: 24px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.artboard-1 .path-102644 {
+  height: 35px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 19px;
+}
+
+.artboard-1 .path-102-27 {
+  height: 24px;
+  left: 0;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.artboard-1 .path-102-28 {
+  height: 12px;
+  left: 9px;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 20px;
+}
+
+.artboard-1 .path-102-29 {
+  height: 15px;
+  left: 24px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 8px;
+}
+
+.artboard-1 .path-102-30 {
+  height: 15px;
+  left: 6px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 8px;
+}
+
+.artboard-1 .rectangle-27303 {
+  height: 34px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 99px;
+  width: 10px;
+}
+
+.artboard-1 .rectangle-2730 {
+  height: 34px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 99px;
+  width: 11px;
+}
+
+.artboard-1 .overlap-group15-1 {
+  height: 32px;
+  left: 80px;
+  position: absolute;
+  top: 101px;
+  width: 51px;
+}
+
+.artboard-1 .path-102-31 {
+  height: 19px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 51px;
+}
+
+.artboard-1 .path-102-32 {
+  height: 25px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 51px;
+}
+
+.artboard-1 .path-102-33 {
+  height: 23px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 48px;
+}
+
+.artboard-1 .path-102-34 {
+  height: 19px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 51px;
+}
+
+.artboard-1 .group-10920 {
+  height: 14px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 46px;
+}
+
+.artboard-1 .path-102-35 {
+  height: 13px;
+  left: 14px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 25px;
+}
+
+.artboard-1 .overlap-group16-1 {
+  height: 32px;
+  left: 80px;
+  position: absolute;
+  top: 94px;
+  width: 51px;
+}
+
+.artboard-1 .overlap-group17-1 {
+  height: 32px;
+  left: 80px;
+  position: absolute;
+  top: 87px;
+  width: 51px;
+}
+
+.artboard-1 .overlap-group14-2 {
+  height: 53px;
+  left: 93px;
+  position: absolute;
+  top: 27px;
+  width: 45px;
+}
+
+.artboard-1 .group-109174 {
+  background-image: url(../img/path-102649@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 39px;
+}
+
+.artboard-1 .group-109175 {
+  background-image: url(../img/path-102650@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 50px;
+  left: 5px;
+  position: absolute;
+  top: 3px;
+  width: 40px;
+}
+
+.artboard-1 .group-109176 {
+  background-image: url(../img/path-102651@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 6px;
+  left: 8px;
+  mix-blend-mode: multiply;
+  opacity: 0.3;
+  position: absolute;
+  top: 9px;
+  width: 8px;
+}
+
+.artboard-1 .group-109177 {
+  background-image: url(../img/path-102652@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  left: 0;
+  mix-blend-mode: multiply;
+  opacity: 0.3;
+  position: absolute;
+  top: 31px;
+  width: 6px;
+}
+
+.artboard-1 .group-109178 {
+  background-image: url(../img/path-102653@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 8px;
+  left: 0;
+  mix-blend-mode: multiply;
+  opacity: 0.3;
+  position: absolute;
+  top: 36px;
+  width: 6px;
+}
+
+.artboard-1 .group-109179 {
+  background-image: url(../img/path-102654@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 6px;
+  left: 12px;
+  mix-blend-mode: multiply;
+  opacity: 0.3;
+  position: absolute;
+  top: 6px;
+  width: 8px;
+}
+
+.artboard-1 .group-109180 {
+  background-image: url(../img/path-102655@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  opacity: 0.3;
+  position: absolute;
+  top: 26px;
+  width: 6px;
+}
+
+.artboard-1 .group-109181 {
+  background-image: url(../img/path-102656@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 6px;
+  left: 6px;
+  mix-blend-mode: multiply;
+  opacity: 0.3;
+  position: absolute;
+  top: 13px;
+  width: 7px;
+}
+
+.artboard-1 .group-109182 {
+  background-image: url(../img/path-102657@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  opacity: 0.3;
+  position: absolute;
+  top: 21px;
+  width: 7px;
+}
+
+.artboard-1 .group-109183 {
+  background-image: url(../img/path-102658@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 26px;
+  mix-blend-mode: multiply;
+  opacity: 0.3;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.artboard-1 .group-109184 {
+  background-image: url(../img/path-102659@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 9px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  opacity: 0.3;
+  position: absolute;
+  top: 42px;
+  width: 10px;
+}
+
+.artboard-1 .group-109185 {
+  background-image: url(../img/path-102660@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 20px;
+  mix-blend-mode: multiply;
+  opacity: 0.3;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.artboard-1 .group-109186 {
+  background-image: url(../img/path-102661@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 15px;
+  mix-blend-mode: multiply;
+  opacity: 0.3;
+  position: absolute;
+  top: 3px;
+  width: 8px;
+}
+
+.artboard-1 .group-109187 {
+  background-image: url(../img/path-102662@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 6px;
+  left: 4px;
+  mix-blend-mode: multiply;
+  opacity: 0.3;
+  position: absolute;
+  top: 17px;
+  width: 7px;
+}
+
+.artboard-1 .group-109199 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 45px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 0;
+  width: 31px;
+}
+
+.artboard-1 .overlap-group-32 {
+  align-self: flex-end;
+  height: 20px;
+  position: relative;
+  width: 26px;
+}
+
+.artboard-1 .group-109193 {
+  background-image: url(../img/path-102668@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 16px;
+  width: 6px;
+}
+
+.artboard-1 .group-109194 {
+  background-image: url(../img/path-102669@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 3px;
+  position: absolute;
+  top: 12px;
+  width: 6px;
+}
+
+.artboard-1 .group-109195 {
+  background-image: url(../img/path-102670@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 6px;
+  position: absolute;
+  top: 8px;
+  width: 6px;
+}
+
+.artboard-1 .group-109196 {
+  background-image: url(../img/path-102671@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 9px;
+  position: absolute;
+  top: 5px;
+  width: 6px;
+}
+
+.artboard-1 .group-109197 {
+  background-image: url(../img/path-102672@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 13px;
+  position: absolute;
+  top: 2px;
+  width: 6px;
+}
+
+.artboard-1 .group-109198 {
+  background-image: url(../img/path-102673@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 19px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.artboard-1 .group-109192 {
+  background-image: url(../img/path-102667@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  margin-left: 3.12px;
+  width: 6px;
+}
+
+.artboard-1 .group-109191 {
+  background-image: url(../img/path-102666@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  margin-left: 1.45px;
+  width: 6px;
+}
+
+.artboard-1 .group-109190 {
+  background-image: url(../img/path-102665@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  margin-left: 0.35px;
+  margin-top: 1px;
+  width: 5px;
+}
+
+.artboard-1 .group-109189 {
+  background-image: url(../img/path-102664@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  margin-left: 0;
+  margin-top: 1px;
+  width: 5px;
+}
+
+.artboard-1 .group-109188 {
+  background-image: url(../img/path-102663@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  margin-left: 0.7px;
+  margin-top: 1px;
+  width: 6px;
+}
+
+.artboard-1 .group-109200 {
+  background-image: url(../img/path-102674@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 26px;
+  left: 15px;
+  mix-blend-mode: multiply;
+  opacity: 0.3;
+  position: absolute;
+  top: 15px;
+  width: 21px;
+}
+
+.artboard-1 .group-109202 {
+  background-image: url(../img/path-102675@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 46px;
+  left: 7px;
+  mix-blend-mode: multiply;
+  opacity: 0.3;
+  position: absolute;
+  top: 6px;
+  width: 36px;
+}
+
+.artboard-1 .overlap-group19 {
+  height: 188px;
+  left: 1439px;
+  position: absolute;
+  top: 7657px;
+  width: 186px;
+}
+
+.artboard-1 .group-109211 {
+  background-color: #b0a8fb;
+  height: 3px;
+  left: 19px;
+  position: absolute;
+  top: 90px;
+  width: 144px;
+}
+
+.artboard-1 .group-109212 {
+  background-color: #b0a8fb;
+  height: 144px;
+  left: 91px;
+  position: absolute;
+  top: 22px;
+  width: 3px;
+}
+
+.artboard-1 .rectangle-27308 {
+  border: 4.1px solid #d5b7fb;
+  height: 150px;
+  left: 18px;
+  position: absolute;
+  top: 16px;
+  width: 150px;
+}
+
+.artboard-1 .overlap-group-33 {
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 38px;
+}
+
+.artboard-1 .path-1027 {
+  height: 36px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 19px;
+}
+
+.artboard-1 .path-1027-1 {
+  height: 36px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 19px;
+}
+
+.artboard-1 .path-1027-2 {
+  height: 36px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 19px;
+}
+
+.artboard-1 .overlap-group1-11 {
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 70px;
+  width: 38px;
+}
+
+.artboard-1 .overlap-group2-9 {
+  height: 47px;
+  left: 0;
+  position: absolute;
+  top: 140px;
+  width: 38px;
+}
+
+.artboard-1 .overlap-group3-10 {
+  height: 47px;
+  left: 74px;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.artboard-1 .overlap-group4-7 {
+  height: 47px;
+  left: 74px;
+  position: absolute;
+  top: 70px;
+  width: 38px;
+}
+
+.artboard-1 .overlap-group5-7 {
+  height: 47px;
+  left: 74px;
+  position: absolute;
+  top: 140px;
+  width: 38px;
+}
+
+.artboard-1 .overlap-group6-6 {
+  height: 47px;
+  left: 147px;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.artboard-1 .overlap-group7-5 {
+  height: 47px;
+  left: 147px;
+  position: absolute;
+  top: 70px;
+  width: 38px;
+}
+
+.artboard-1 .overlap-group8-5 {
+  height: 47px;
+  left: 147px;
+  position: absolute;
+  top: 139px;
+  width: 38px;
+}
+
+.artboard-1 .overlap-group20 {
+  height: 187px;
+  left: 872px;
+  position: absolute;
+  top: 7070px;
+  width: 176px;
+}
+
+.artboard-1 .path-102796 {
+  height: 58px;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 57px;
+}
+
+.artboard-1 .group-109223 {
+  background-image: url(../img/path-102797@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 109px;
+  left: 0;
+  position: absolute;
+  top: 72px;
+  width: 175px;
+}
+
+.artboard-1 .path-102798 {
+  height: 43px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 144px;
+  width: 58px;
+}
+
+.artboard-1 .path-102799 {
+  height: 79px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 119px;
+}
+
+.artboard-1 .path-102800 {
+  height: 79px;
+  left: 57px;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 119px;
+}
+
+.artboard-1 .path-102801 {
+  height: 90px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 149px;
+}
+
+.artboard-1 .path-102802 {
+  height: 9px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 152px;
+  width: 12px;
+}
+
+.artboard-1 .rectangle-27309 {
+  height: 46px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 114px;
+  width: 73px;
+}
+
+.artboard-1 .rectangle-27310 {
+  height: 47px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 88px;
+  width: 73px;
+}
+
+.artboard-1 .path-102803 {
+  height: 65px;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 24px;
+}
+
+.artboard-1 .path-102804 {
+  height: 27px;
+  left: 71px;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 43px;
+}
+
+.artboard-1 .path-102805 {
+  height: 87px;
+  left: 62px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 60px;
+}
+
+.artboard-1 .path-102806 {
+  height: 95px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 65px;
+}
+
+.artboard-1 .path-102807 {
+  height: 43px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 89px;
+}
+
+.artboard-1 .path-102808 {
+  height: 27px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 43px;
+}
+
+.artboard-1 .path-102809 {
+  height: 65px;
+  left: 49px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 24px;
+}
+
+.artboard-1 .path-102810 {
+  height: 37px;
+  left: 62px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 60px;
+}
+
+.artboard-1 .path-102811 {
+  height: 51px;
+  left: 62px;
+  object-fit: cover;
+  position: absolute;
+  top: 39px;
+  width: 2px;
+}
+
+.artboard-1 .path-102812 {
+  height: 32px;
+  left: 114px;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 29px;
+}
+
+.artboard-1 .path-102813 {
+  height: 32px;
+  left: 114px;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 29px;
+}
+
+.artboard-1 .path-102814 {
+  height: 24px;
+  left: 114px;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 29px;
+}
+
+.artboard-1 .path-102815 {
+  height: 7px;
+  left: 120px;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 8px;
+}
+
+.artboard-1 .overlap-group-34 {
+  height: 35px;
+  left: 109px;
+  position: absolute;
+  top: 14px;
+  width: 29px;
+}
+
+.artboard-1 .path-1028 {
+  height: 34px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.artboard-1 .path-1028-1 {
+  height: 33px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 26px;
+}
+
+.artboard-1 .path-1028-2 {
+  height: 4px;
+  left: 6px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 5px;
+}
+
+.artboard-1 .path-1028-3 {
+  height: 5px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 4px;
+}
+
+.artboard-1 .path-1028-4 {
+  height: 5px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 4px;
+}
+
+.artboard-1 .path-1028-5 {
+  height: 4px;
+  left: 8px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 5px;
+}
+
+.artboard-1 .path-1028-6 {
+  height: 5px;
+  left: 0;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 4px;
+}
+
+.artboard-1 .path-1028-7 {
+  height: 4px;
+  left: 4px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 5px;
+}
+
+.artboard-1 .path-1028-8 {
+  height: 4px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 4px;
+}
+
+.artboard-1 .path-1028-9 {
+  height: 3px;
+  left: 17px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.artboard-1 .path-1028-10 {
+  height: 6px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 7px;
+}
+
+.artboard-1 .path-1028-11 {
+  height: 3px;
+  left: 13px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.artboard-1 .path-1028-12 {
+  height: 4px;
+  left: 10px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 6px;
+}
+
+.artboard-1 .path-1028-13 {
+  height: 4px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 5px;
+}
+
+.artboard-1 .group-10922 {
+  height: 30px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.artboard-1 .path-102-36 {
+  height: 17px;
+  left: 10px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 13px;
+}
+
+.artboard-1 .path-102-37 {
+  height: 29px;
+  left: 5px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 23px;
+}
+
+.artboard-1 .overlap-group1-12 {
+  height: 35px;
+  left: 75px;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.artboard-1 .overlap-group2-10 {
+  height: 35px;
+  left: 69px;
+  position: absolute;
+  top: 42px;
+  width: 29px;
+}
+
+.artboard-1 .path-103183 {
+  height: 103px;
+  left: 341px;
+  object-fit: cover;
+  position: absolute;
+  top: 7289px;
+  width: 110px;
+}
+
+.artboard-1 .text-8 {
+  left: 237px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 7426px;
+  white-space: nowrap;
+}
+
+.artboard-1 .path-103182 {
+  height: 103px;
+  left: 863px;
+  object-fit: cover;
+  position: absolute;
+  top: 7289px;
+  width: 204px;
+}
+
+.artboard-1 .text-9 {
+  left: 764px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 7444px;
+  white-space: nowrap;
+}
+
+.artboard-1 .path-103181 {
+  height: 176px;
+  left: 1407px;
+  object-fit: cover;
+  position: absolute;
+  top: 7257px;
+  width: 256px;
+}
+
+.artboard-1 .text-10 {
+  left: 1368px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 7444px;
+  white-space: nowrap;
+}
+
+.artboard-1 .path-103184 {
+  height: 165px;
+  left: 283px;
+  object-fit: cover;
+  position: absolute;
+  top: 7857px;
+  width: 230px;
+}
+
+.artboard-1 .text-11 {
+  left: 220px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 8026px;
+  white-space: nowrap;
+}
+
+.artboard-1 .path-103185 {
+  height: 116px;
+  left: 788px;
+  object-fit: cover;
+  position: absolute;
+  top: 7887px;
+  width: 357px;
+}
+
+.artboard-1 .text-12 {
+  left: 811px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 8026px;
+  white-space: nowrap;
+}
+
+.artboard-1 .path-103186 {
+  height: 105px;
+  left: 1383px;
+  object-fit: cover;
+  position: absolute;
+  top: 7887px;
+  width: 317px;
+}
+
+.artboard-1 .text-13 {
+  left: 1389px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 8026px;
+  white-space: nowrap;
+}
+
+.artboard-1 .path-103034 {
+  height: 66px;
+  left: 609px;
+  object-fit: cover;
+  position: absolute;
+  top: 6878px;
+  width: 702px;
+}
+
+.artboard-1 .polygon-1 {
+  height: 231px;
+  left: 860px;
+  object-fit: cover;
+  position: absolute;
+  top: 6072px;
+  width: 200px;
+}
+
+.artboard-1 .fatcow-workout {
+  height: 492px;
+  left: 1124px;
+  object-fit: cover;
+  position: absolute;
+  top: 3426px;
+  width: 541px;
+}
+
+.artboard-1 .overlap-group21 {
+  height: 501px;
+  left: 262px;
+  position: absolute;
+  top: 3981px;
+  width: 434px;
+}
+
+.artboard-1 .path-102906 {
+  height: 42px;
+  left: 253px;
+  object-fit: cover;
+  position: absolute;
+  top: 205px;
+  width: 181px;
+}
+
+.artboard-1 .path-102907 {
+  height: 15px;
+  left: 270px;
+  object-fit: cover;
+  position: absolute;
+  top: 205px;
+  width: 164px;
+}
+
+.artboard-1 .path-102908 {
+  height: 140px;
+  left: 369px;
+  object-fit: cover;
+  position: absolute;
+  top: 232px;
+  width: 50px;
+}
+
+.artboard-1 .path-102909 {
+  height: 147px;
+  left: 254px;
+  object-fit: cover;
+  position: absolute;
+  top: 233px;
+  width: 138px;
+}
+
+.artboard-1 .path-102910 {
+  height: 368px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 278px;
+}
+
+.artboard-1 .path-102911 {
+  height: 206px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 213px;
+}
+
+.artboard-1 .path-102912 {
+  height: 351px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 82px;
+}
+
+.artboard-1 .path-102913 {
+  height: 171px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 330px;
+  width: 374px;
+}
+
+.artboard-1 .path-102914 {
+  height: 75px;
+  left: 113px;
+  object-fit: cover;
+  position: absolute;
+  top: 339px;
+  width: 263px;
+}
+
+.artboard-1 .path-102915 {
+  height: 128px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 373px;
+  width: 362px;
+}
+
+.artboard-1 .path-102917 {
+  height: 63px;
+  left: 144px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 73px;
+}
+
+.artboard-1 .path-102918 {
+  height: 30px;
+  left: 285px;
+  object-fit: cover;
+  position: absolute;
+  top: 362px;
+  width: 76px;
+}
+
+.artboard-1 .path-102919 {
+  height: 12px;
+  left: 325px;
+  object-fit: cover;
+  position: absolute;
+  top: 271px;
+  width: 41px;
+}
+
+.artboard-1 .fatcow-popcorn {
+  height: 438px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 388px;
+}
+
+.artboard-1 .overlap-group-35 {
+  height: 218px;
+  left: 8px;
+  position: absolute;
+  top: 243px;
+  width: 91px;
+}
+
+.artboard-1 .path-102916 {
+  height: 194px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 52px;
+}
+
+.artboard-1 .path-102920 {
+  height: 168px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 50px;
+  width: 61px;
+}
+
+.artboard-1 .path-102921 {
+  height: 55px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 90px;
+}
+
+.artboard-1 .path-102922 {
+  height: 48px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 89px;
+}
+
+.artboard-1 .path-102923 {
+  height: 14px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 46px;
+}
+
+.artboard-1 .path-102924 {
+  height: 150px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 27px;
+}
+
+.artboard-1 .overlap-group22 {
+  height: 142px;
+  left: 643px;
+  position: absolute;
+  top: 4299px;
+  width: 117px;
+}
+
+.artboard-1 .path-102929 {
+  height: 69px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 110px;
+}
+
+.artboard-1 .path-102930 {
+  height: 18px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 17px;
+}
+
+.artboard-1 .path-102931 {
+  height: 16px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 15px;
+}
+
+.artboard-1 .path-102932 {
+  height: 21px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 22px;
+}
+
+.artboard-1 .path-102933 {
+  height: 20px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 21px;
+}
+
+.artboard-1 .group-109241 {
+  align-items: flex-end;
+  background-image: url(../img/path-102934@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 21px;
+  justify-content: flex-end;
+  left: 6px;
+  min-width: 26px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 27px;
+}
+
+.artboard-1 .overlap-group1-13 {
+  height: 19px;
+  margin-bottom: 0;
+  position: relative;
+  width: 26px;
+}
+
+.artboard-1 .overlap-group-36 {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 26px;
+}
+
+.artboard-1 .path-102935 {
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.artboard-1 .path-1029 {
+  height: 19px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.artboard-1 .path-102937 {
+  height: 8px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.artboard-1 .group-109243 {
+  align-items: flex-end;
+  background-image: url(../img/path-102938@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 20px;
+  justify-content: flex-end;
+  left: 27px;
+  min-width: 27px;
+  padding: 0.0px 0.0px;
+  position: absolute;
+  top: 17px;
+}
+
+.artboard-1 .overlap-group2-11 {
+  height: 19px;
+  position: relative;
+  width: 27px;
+}
+
+.artboard-1 .overlap-group-37 {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 27px;
+}
+
+.artboard-1 .path-102939 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.artboard-1 .path-102941 {
+  height: 8px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 11px;
+}
+
+.artboard-1 .group-109244 {
+  align-items: flex-end;
+  background-image: url(../img/path-102942@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 20px;
+  left: 48px;
+  min-width: 23px;
+  padding: 0.2px 0.0px;
+  position: absolute;
+  top: 21px;
+}
+
+.artboard-1 .overlap-group3-11 {
+  align-items: flex-start;
+  background-image: url(../img/path-102943@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 20px;
+  min-width: 23px;
+  padding: 1.7px 2.9px;
+}
+
+.artboard-1 .path-10294 {
+  height: 11px;
+  object-fit: cover;
+  width: 7px;
+}
+
+.artboard-1 .group-109245 {
+  align-items: flex-end;
+  background-image: url(../img/path-102945@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 20px;
+  left: 43px;
+  min-width: 23px;
+  padding: 0.2px 0.0px;
+  position: absolute;
+  top: 35px;
+}
+
+.artboard-1 .overlap-group4-8 {
+  align-items: flex-start;
+  background-image: url(../img/path-102946@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 20px;
+  min-width: 23px;
+  padding: 1.7px 2.9px;
+}
+
+.artboard-1 .group-109246 {
+  align-items: flex-end;
+  background-image: url(../img/path-102948@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 23px;
+  justify-content: flex-end;
+  left: 75px;
+  min-width: 23px;
+  padding: 0.1px 0;
+  position: absolute;
+  top: 22px;
+}
+
+.artboard-1 .overlap-group5-8 {
+  height: 21px;
+  position: relative;
+  width: 23px;
+}
+
+.artboard-1 .path-102949 {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 23px;
+}
+
+.artboard-1 .path-102950 {
+  height: 8px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.artboard-1 .group-109247 {
+  align-items: flex-end;
+  background-image: url(../img/path-102951@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 22px;
+  left: 63px;
+  min-width: 28px;
+  position: absolute;
+  top: 33px;
+}
+
+.artboard-1 .overlap-group6-7 {
+  height: 19px;
+  margin-bottom: -0.05px;
+  position: relative;
+  width: 28px;
+}
+
+.artboard-1 .path-102952 {
+  height: 17px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 28px;
+}
+
+.artboard-1 .path-102953 {
+  height: 12px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.artboard-1 .path-102954 {
+  height: 95px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 81px;
+}
+
+.artboard-1 .path-102955 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 39px;
+  width: 16px;
+}
+
+.artboard-1 .path-102956 {
+  height: 9px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 16px;
+}
+
+.artboard-1 .path-102957 {
+  height: 10px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 44px;
+  width: 16px;
+}
+
+.artboard-1 .path-102958 {
+  height: 9px;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 16px;
+}
+
+.artboard-1 .path-102959 {
+  height: 9px;
+  left: 65px;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 16px;
+}
+
+.artboard-1 .path-102960 {
+  height: 87px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  width: 23px;
+}
+
+.artboard-1 .path-102961 {
+  height: 86px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 51px;
+  width: 16px;
+}
+
+.artboard-1 .path-102962 {
+  height: 87px;
+  left: 62px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 19px;
+}
+
+.artboard-1 .path-102963 {
+  height: 37px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 73px;
+  width: 34px;
+}
+
+.artboard-1 .ellipse-3420 {
+  background-color: #ffeacf;
+  border-radius: 14.25px/16px;
+  height: 32px;
+  left: 28px;
+  position: absolute;
+  top: 76px;
+  transform: rotate(-3.27deg);
+  width: 28px;
+}
+
+.artboard-1 .group-109248 {
+  background-image: url(../img/path-102964@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 30px;
+  left: 28px;
+  position: absolute;
+  top: 77px;
+  width: 27px;
+}
+
+.artboard-1 .overlap-group7-6 {
+  height: 18px;
+  left: 32px;
+  position: absolute;
+  top: 82px;
+  width: 21px;
+}
+
+.artboard-1 .group-109249 {
+  align-items: flex-start;
+  display: flex;
+  height: 10px;
+  left: 1px;
+  min-width: 14px;
+  position: absolute;
+  top: 0;
+}
+
+.artboard-1 .path-102965 {
+  align-self: flex-end;
+  height: 7px;
+  object-fit: cover;
+  width: 5px;
+}
+
+.artboard-1 .overlap-group-38 {
+  height: 8px;
+  margin-top: 0;
+  position: relative;
+  width: 9px;
+}
+
+.artboard-1 .path-102966 {
+  height: 7px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 5px;
+}
+
+.artboard-1 .path-102967 {
+  height: 7px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.artboard-1 .overlap-group1-14 {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 21px;
+}
+
+.artboard-1 .path-102968 {
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 5px;
+}
+
+.artboard-1 .path-102969 {
+  height: 8px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 5px;
+}
+
+.artboard-1 .path-102970 {
+  height: 8px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 6px;
+}
+
+.artboard-1 .path-102971 {
+  height: 8px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.artboard-1 .path-102972 {
+  height: 9px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  width: 13px;
+}
+
+.artboard-1 .path-102973 {
+  height: 8px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 12px;
+}
+
+.artboard-1 .path-102974 {
+  height: 12px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 9px;
+}
+
+.artboard-1 .path-102975 {
+  height: 8px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 9px;
+}
+
+.artboard-1 .path-102976 {
+  height: 8px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 7px;
+}
+
+.artboard-1 .path-102977 {
+  height: 6px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 7px;
+}
+
+.artboard-1 .path-102978 {
+  height: 9px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 33px;
+  width: 9px;
+}
+
+.artboard-1 .path-102979 {
+  height: 7px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 6px;
+}
+
+.artboard-1 .path-102980 {
+  height: 6px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 6px;
+}
+
+.artboard-1 .path-102981 {
+  height: 7px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 7px;
+}
+
+.artboard-1 .path-102982 {
+  height: 5px;
+  left: 79px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 6px;
+}
+
+.artboard-1 .path-102983 {
+  height: 4px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 7px;
+}
+
+.artboard-1 .path-102984 {
+  height: 10px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 8px;
+}
+
+.artboard-1 .path-102985 {
+  height: 9px;
+  left: 98px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 9px;
+}
+
+.artboard-1 .path-102986 {
+  height: 10px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 9px;
+}
+
+.artboard-1 .path-102987 {
+  height: 10px;
+  left: 106px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 8px;
+}
+
+.artboard-1 .overlap-group8-6 {
+  height: 113px;
+  left: 74px;
+  position: absolute;
+  top: 28px;
+  width: 43px;
+}
+
+.artboard-1 .path-102988 {
+  height: 9px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 9px;
+}
+
+.artboard-1 .overlap-group-39 {
+  height: 113px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 43px;
+}
+
+.artboard-1 .path-102989 {
+  height: 110px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 43px;
+}
+
+.artboard-1 .path-102990 {
+  height: 9px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 9px;
+}
+
+.artboard-1 .path-102991 {
+  height: 9px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.artboard-1 .path-102992 {
+  height: 90px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 17px;
+}
+
+.artboard-1 .path-102993 {
+  height: 84px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.artboard-1 .path-102994 {
+  height: 9px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 9px;
+}
+
+.artboard-1 .overlap-group23 {
+  height: 169px;
+  left: 725px;
+  position: absolute;
+  top: 4285px;
+  width: 89px;
+}
+
+.artboard-1 .path-102995 {
+  height: 102px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 80px;
+}
+
+.artboard-1 .overlap-group-40 {
+  height: 102px;
+  left: 4px;
+  position: absolute;
+  top: 63px;
+  width: 80px;
+}
+
+.artboard-1 .path-102996 {
+  height: 28px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 64px;
+}
+
+.artboard-1 .path-102997 {
+  height: 44px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 73px;
+}
+
+.artboard-1 .path-102998 {
+  height: 33px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 63px;
+}
+
+.artboard-1 .path-102999 {
+  height: 11px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.artboard-1 .path-103000 {
+  height: 43px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 68px;
+}
+
+.artboard-1 .path-103001 {
+  height: 14px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 89px;
+  width: 32px;
+}
+
+.artboard-1 .path-103002 {
+  height: 44px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 77px;
+}
+
+.artboard-1 .path-103003 {
+  height: 74px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 77px;
+  width: 11px;
+}
+
+.artboard-1 .group-109257 {
+  align-items: flex-end;
+  background-image: url(../img/path-103004@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 35px;
+  left: 19px;
+  min-width: 35px;
+  padding: 0.5px 0.6px;
+  position: absolute;
+  top: 98px;
+}
+
+.artboard-1 .overlap-group1-15 {
+  height: 34px;
+  position: relative;
+  width: 33px;
+}
+
+.artboard-1 .ellipse-3421 {
+  background-color: #ffeacf;
+  border-radius: 14.64px/15.4px;
+  height: 31px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(-7.58deg);
+  width: 29px;
+}
+
+.artboard-1 .group-109256 {
+  background-image: url(../img/path-103005@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 29px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 28px;
+}
+
+.artboard-1 .path-103006 {
+  height: 101px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 80px;
+}
+
+.artboard-1 .path-103007 {
+  height: 10px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 68px;
+  width: 79px;
+}
+
+.artboard-1 .path-103008 {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 89px;
+}
+
+.artboard-1 .path-103009 {
+  height: 7px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 68px;
+  width: 36px;
+}
+
+.artboard-1 .overlap-group2-12 {
+  height: 20px;
+  left: 67px;
+  position: absolute;
+  top: 55px;
+  width: 22px;
+}
+
+.artboard-1 .path-103010 {
+  height: 1px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.artboard-1 .path-103011 {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.artboard-1 .path-103012 {
+  height: 14px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 87px;
+}
+
+.artboard-1 .path-103013 {
+  height: 9px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 73px;
+}
+
+.artboard-1 .path-103014 {
+  height: 11px;
+  left: 57px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 27px;
+}
+
+.artboard-1 .path-103015 {
+  height: 8px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 53px;
+  width: 22px;
+}
+
+.artboard-1 .path-103016 {
+  height: 21px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 148px;
+  width: 61px;
+}
+
+.artboard-1 .path-103017 {
+  height: 18px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 148px;
+  width: 16px;
+}
+
+.artboard-1 .path-103018 {
+  height: 7px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 156px;
+  width: 7px;
+}
+
+.artboard-1 .path-103019 {
+  height: 5px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 40px;
+}
+
+.artboard-1 .path-103020 {
+  height: 55px;
+  left: 41px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 19px;
+}
+
+.artboard-1 .path-103021 {
+  height: 55px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 13px;
+}
+
+.artboard-1 .path-103022 {
+  height: 3px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.artboard-1 .overlap-group3-12 {
+  height: 15px;
+  left: 28px;
+  position: absolute;
+  top: 108px;
+  width: 18px;
+}
+
+.artboard-1 .group-109259 {
+  background-image: url(../img/path-103023@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 13px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.artboard-1 .path-103024 {
+  flex: 1;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 1.9px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 10.66px;
+}
+
+.artboard-1 .path-103025 {
+  height: 15px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.artboard-1 .o-eww92tif {
+  background-image: url(../img/layer-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 291px;
+  left: 804px;
+  position: absolute;
+  top: 4608px;
+  width: 311px;
+}
+
+.artboard-1 .d-qw1jmtif {
+  background-image: url(../img/layer-1-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 260px;
+  left: 1335px;
+  position: absolute;
+  top: 4625px;
+  width: 352px;
+}
+
+.artboard-1 .lknv-hgtif {
+  background-image: url(../img/layer-1-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 316px;
+  left: 354px;
+  position: absolute;
+  top: 4593px;
+  width: 197px;
+}
+
+.artboard-1 .path-103035 {
+  height: 50px;
+  left: 771px;
+  object-fit: cover;
+  position: absolute;
+  top: 8427px;
+  width: 379px;
+}
+
+.artboard-1 .text-14 {
+  left: 322px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 9130px;
+  white-space: nowrap;
+}
+
+.artboard-1 .path-103195 {
+  height: 93px;
+  left: 397px;
+  object-fit: cover;
+  position: absolute;
+  top: 9010px;
+  width: 325px;
+}
+
+.artboard-1 .text-15 {
+  left: 1157px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 9136px;
+  white-space: nowrap;
+}
+
+.artboard-1 .path-103194 {
+  height: 93px;
+  left: 1167px;
+  object-fit: cover;
+  position: absolute;
+  top: 9010px;
+  width: 332px;
+}
+
+.artboard-1 .text-16 {
+  left: 329px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 9860px;
+  white-space: nowrap;
+}
+
+.artboard-1 .path-103196 {
+  height: 45px;
+  left: 351px;
+  object-fit: cover;
+  position: absolute;
+  top: 9765px;
+  width: 414px;
+}
+
+.artboard-1 .text-17 {
+  left: 1117px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 9860px;
+  white-space: nowrap;
+}
+
+.artboard-1 .path-103193 {
+  height: 105px;
+  left: 1100px;
+  object-fit: cover;
+  position: absolute;
+  top: 9741px;
+  width: 478px;
+}
+
+.artboard-1 .path-103039 {
+  height: 187px;
+  left: 299px;
+  object-fit: cover;
+  position: absolute;
+  top: 8781px;
+  width: 109px;
+}
+
+.artboard-1 .path-103037 {
+  height: 187px;
+  left: 1101px;
+  object-fit: cover;
+  position: absolute;
+  top: 8781px;
+  width: 156px;
+}
+
+.artboard-1 .path-103038 {
+  height: 187px;
+  left: 314px;
+  object-fit: cover;
+  position: absolute;
+  top: 9511px;
+  width: 159px;
+}
+
+.artboard-1 .path-103036 {
+  height: 190px;
+  left: 1090px;
+  object-fit: cover;
+  position: absolute;
+  top: 9497px;
+  width: 177px;
+}
+
+.artboard-1 .graphic {
+  height: 326px;
+  left: 589px;
+  object-fit: cover;
+  position: absolute;
+  top: 9414px;
+  width: 326px;
+}
+
+.artboard-1 .fatcow-coin-14 {
+  height: 88px;
+  left: 436px;
+  object-fit: cover;
+  position: absolute;
+  top: 8869px;
+  width: 86px;
+}
+
+.artboard-1 .fatcow-coin-15 {
+  height: 88px;
+  left: 424px;
+  object-fit: cover;
+  position: absolute;
+  top: 9455px;
+  width: 86px;
+}
+
+.artboard-1 .fatcow-coin-16 {
+  height: 133px;
+  left: 687px;
+  object-fit: cover;
+  position: absolute;
+  top: 8824px;
+  width: 131px;
+}
+
+.artboard-1 .fatcow-coin-17 {
+  height: 133px;
+  left: 1269px;
+  object-fit: cover;
+  position: absolute;
+  top: 8824px;
+  width: 131px;
+}
+
+.artboard-1 .fatcow-coin-18 {
+  height: 88px;
+  left: 478px;
+  object-fit: cover;
+  position: absolute;
+  top: 8663px;
+  width: 89px;
+}
+
+.artboard-1 .fatcow-coin-19 {
+  height: 88px;
+  left: 545px;
+  object-fit: cover;
+  position: absolute;
+  top: 9371px;
+  width: 89px;
+}
+
+.artboard-1 .fatcow-coin-20 {
+  height: 93px;
+  left: 673px;
+  object-fit: cover;
+  position: absolute;
+  top: 8644px;
+  width: 94px;
+}
+
+.artboard-1 .fatcow-coin-21 {
+  height: 93px;
+  left: 681px;
+  object-fit: cover;
+  position: absolute;
+  top: 9452px;
+  width: 94px;
+}
+
+.artboard-1 .fatcow-love {
+  height: 260px;
+  left: 455px;
+  object-fit: cover;
+  position: absolute;
+  top: 8708px;
+  width: 303px;
+}
+
+.artboard-1 .rectangle-5 {
+  height: 415px;
+  left: 1257px;
+  object-fit: cover;
+  position: absolute;
+  top: 9336px;
+  width: 415px;
+}
+
+.artboard-1 .fatcow-umbrella {
+  height: 319px;
+  left: 1246px;
+  object-fit: cover;
+  position: absolute;
+  top: 8682px;
+  width: 392px;
+}
+
+.artboard-1 .group-109268 {
+  align-items: flex-start;
+  display: flex;
+  height: 67px;
+  justify-content: flex-end;
+  left: 1275px;
+  min-width: 29px;
+  position: absolute;
+  top: 8706px;
+  transform: rotate(-19.00deg);
+}
+
+.artboard-1 .overlap-group24 {
+  height: 84px;
+  margin-top: -8.84px;
+  position: relative;
+  width: 70px;
+}
+
+.artboard-1 .path-103040 {
+  height: 72px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  transform: rotate(19.00deg);
+  width: 49px;
+}
+
+.artboard-1 .overlap-group-4 {
+  height: 83px;
+  left: 9px;
+  position: absolute;
+  top: 2px;
+  width: 53px;
+}
+
+.artboard-1 .rectangle-2733 {
+  height: 44px;
+  left: 10px;
+  mix-blend-mode: soft-light;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  transform: rotate(19.00deg);
+  width: 35px;
+}
+
+.artboard-1 .rectangle-273 {
+  height: 35px;
+  left: 13px;
+  mix-blend-mode: soft-light;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  transform: rotate(19.00deg);
+  width: 32px;
+}
+
+.artboard-1 .rectangle-273-1 {
+  height: 18px;
+  left: 10px;
+  mix-blend-mode: soft-light;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  transform: rotate(19.00deg);
+  width: 21px;
+}
+
+.artboard-1 .rectangle-273-2 {
+  height: 16px;
+  left: 22px;
+  mix-blend-mode: soft-light;
+  object-fit: cover;
+  position: absolute;
+  top: 33px;
+  transform: rotate(19.00deg);
+  width: 19px;
+}
+
+.artboard-1 .rectangle-273-3 {
+  height: 46px;
+  left: 6px;
+  mix-blend-mode: soft-light;
+  object-fit: cover;
+  position: absolute;
+  top: 31px;
+  transform: rotate(19.00deg);
+  width: 40px;
+}
+
+.artboard-1 .group-109269 {
+  align-items: flex-start;
+  display: flex;
+  height: 100px;
+  justify-content: flex-end;
+  left: 1284px;
+  min-width: 43px;
+  position: absolute;
+  top: 8627px;
+  transform: rotate(14.00deg);
+}
+
+.artboard-1 .overlap-group25 {
+  height: 120px;
+  margin-top: -10.08px;
+  position: relative;
+  width: 90px;
+}
+
+.artboard-1 .path-103040-1 {
+  height: 107px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  transform: rotate(-14.00deg);
+  width: 66px;
+}
+
+.artboard-1 .overlap-group-5 {
+  height: 118px;
+  left: 10px;
+  position: absolute;
+  top: 2px;
+  width: 70px;
+}
+
+.artboard-1 .rectangle-2733-1 {
+  height: 64px;
+  left: 13px;
+  mix-blend-mode: soft-light;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  transform: rotate(-14.00deg);
+  width: 48px;
+}
+
+.artboard-1 .rectangle-273-4 {
+  height: 50px;
+  left: 16px;
+  mix-blend-mode: soft-light;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  transform: rotate(-14.00deg);
+  width: 45px;
+}
+
+.artboard-1 .rectangle-273-5 {
+  height: 25px;
+  left: 12px;
+  mix-blend-mode: soft-light;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  transform: rotate(-14.00deg);
+  width: 31px;
+}
+
+.artboard-1 .rectangle-273-6 {
+  height: 22px;
+  left: 30px;
+  mix-blend-mode: soft-light;
+  object-fit: cover;
+  position: absolute;
+  top: 47px;
+  transform: rotate(-14.00deg);
+  width: 27px;
+}
+
+.artboard-1 .rectangle-273-7 {
+  height: 67px;
+  left: 7px;
+  mix-blend-mode: soft-light;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  transform: rotate(-14.00deg);
+  width: 56px;
+}
+
+.artboard-1 .fatcow-pointing {
+  height: 287px;
+  left: 1215px;
+  object-fit: cover;
+  position: absolute;
+  top: 9452px;
+  width: 290px;
+}
+
+.artboard-1 .fatcow-champgne-1 {
+  height: 266px;
+  left: 465px;
+  object-fit: cover;
+  position: absolute;
+  top: 9451px;
+  width: 248px;
+}
+
+.artboard-1 .group-109279 {
+  align-items: flex-end;
+  display: flex;
+  height: 133px;
+  left: 1445px;
+  min-width: 119px;
+  position: absolute;
+  top: 9402px;
+  transform: rotate(18.00deg);
+}
+
+.artboard-1 .overlap-group26 {
+  height: 176px;
+  margin-bottom: -32.82px;
+  margin-left: -20px;
+  position: relative;
+  width: 159px;
+}
+
+.artboard-1 .overlap-group-41 {
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 159px;
+}
+
+.artboard-1 .group-109270 {
+  display: flex;
+  height: 111px;
+  left: 20px;
+  position: absolute;
+  top: 33px;
+  width: 119px;
+}
+
+.artboard-1 .path-103041 {
+  flex: 1;
+  margin-bottom: -15.7px;
+  margin-left: -14.2px;
+  margin-right: -14.2px;
+  margin-top: -15.7px;
+  object-fit: cover;
+  transform: rotate(-18.00deg);
+  width: 147.7px;
+}
+
+.artboard-1 .rectangle-27344 {
+  height: 111px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  transform: rotate(-18.00deg);
+  width: 131px;
+}
+
+.artboard-1 .rectangle-27345 {
+  height: 50px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  transform: rotate(-18.00deg);
+  width: 111px;
+}
+
+.artboard-1 .rectangle-27346 {
+  height: 74px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  transform: rotate(-18.00deg);
+  width: 126px;
+}
+
+.artboard-1 .overlap-group1-16 {
+  height: 128px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 139px;
+}
+
+.artboard-1 .rectangle-27347 {
+  height: 107px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  transform: rotate(-18.00deg);
+  width: 76px;
+}
+
+.artboard-1 .rectangle-27348 {
+  height: 106px;
+  left: 60px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  transform: rotate(-18.00deg);
+  width: 65px;
+}
+
+.artboard-1 .rectangle-27349 {
+  height: 19px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  transform: rotate(-18.00deg);
+  width: 42px;
+}
+
+.artboard-1 .overlap-group2-13 {
+  height: 39px;
+  left: 26px;
+  position: absolute;
+  top: 25px;
+  width: 96px;
+}
+
+.artboard-1 .rectangle-27350 {
+  height: 26px;
+  left: 16px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  transform: rotate(-18.00deg);
+  width: 44px;
+}
+
+.artboard-1 .rectangle-27351 {
+  height: 19px;
+  left: 57px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  transform: rotate(-18.00deg);
+  width: 37px;
+}
+
+.artboard-1 .rectangle-27352 {
+  height: 19px;
+  left: 2px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  transform: rotate(-18.00deg);
+  width: 36px;
+}
+
+.artboard-1 .overlap-group4-9 {
+  height: 54px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 112px;
+}
+
+.artboard-1 .overlap-group-42 {
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 59px;
+}
+
+.artboard-1 .rectangle-27353 {
+  height: 34px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  transform: rotate(-18.00deg);
+  width: 37px;
+}
+
+.artboard-1 .rectangle-27354 {
+  height: 40px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  transform: rotate(-18.00deg);
+  width: 49px;
+}
+
+.artboard-1 .rectangle-27355 {
+  height: 9px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  transform: rotate(-18.00deg);
+  width: 18px;
+}
+
+.artboard-1 .overlap-group1-17 {
+  height: 42px;
+  left: 43px;
+  position: absolute;
+  top: 3px;
+  width: 46px;
+}
+
+.artboard-1 .rectangle-27356 {
+  height: 30px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  transform: rotate(-18.00deg);
+  width: 19px;
+}
+
+.artboard-1 .rectangle-27357 {
+  height: 33px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  transform: rotate(-18.00deg);
+  width: 33px;
+}
+
+.artboard-1 .rectangle-27358 {
+  height: 16px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  transform: rotate(-18.00deg);
+  width: 27px;
+}
+
+.artboard-1 .overlap-group2-14 {
+  height: 40px;
+  left: 22px;
+  position: absolute;
+  top: 11px;
+  width: 49px;
+}
+
+.artboard-1 .rectangle-27359 {
+  height: 24px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  transform: rotate(-18.00deg);
+  width: 19px;
+}
+
+.artboard-1 .rectangle-27360 {
+  height: 28px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  transform: rotate(-18.00deg);
+  width: 22px;
+}
+
+.artboard-1 .rectangle-27361 {
+  height: 32px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  transform: rotate(-18.00deg);
+  width: 32px;
+}
+
+.artboard-1 .overlap-group3-13 {
+  height: 46px;
+  left: 56px;
+  position: absolute;
+  top: 6px;
+  width: 55px;
+}
+
+.artboard-1 .rectangle-27362 {
+  height: 35px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  transform: rotate(-18.00deg);
+  width: 42px;
+}
+
+.artboard-1 .rectangle-27363 {
+  height: 28px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  transform: rotate(-18.00deg);
+  width: 25px;
+}
+
+.artboard-1 .rectangle-27364 {
+  height: 29px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  transform: rotate(-18.00deg);
+  width: 31px;
+}
+
+.artboard-1 .rectangle-27365 {
+  height: 14px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  transform: rotate(-18.00deg);
+  width: 29px;
+}
+
+.artboard-1 .path-103042 {
+  height: 51px;
+  left: 775px;
+  object-fit: cover;
+  position: absolute;
+  top: 10317px;
+  width: 367px;
+}
+
+.artboard-1 .overlap-group27 {
+  height: 567px;
+  left: 966px;
+  position: absolute;
+  top: 11060px;
+  width: 793px;
+}
+
+.artboard-1 .background {
+  background-color: #9cd5d8;
+  border-radius: 94px;
+  height: 477px;
+  left: 54px;
+  position: absolute;
+  top: 75px;
+  width: 716px;
+}
+
+.artboard-1 .path-103179 {
+  height: 291px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 212px;
+  width: 716px;
+}
+
+.artboard-1 .overlap-group6-8 {
+  height: 311px;
+  left: 42px;
+  position: absolute;
+  top: 178px;
+  width: 738px;
+}
+
+.artboard-1 .group-109284 {
+  align-items: flex-start;
+  display: flex;
+  height: 210px;
+  left: 51px;
+  min-width: 643px;
+  position: absolute;
+  top: 67px;
+}
+
+.artboard-1 .group-109281 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0;
+  min-width: 56px;
+}
+
+.artboard-1 .overlap-group-6 {
+  height: 199px;
+  margin-top: 0;
+  position: relative;
+  width: 56px;
+}
+
+.artboard-1 .rectangle-2737 {
+  background-color: var(--big-foot-feet);
+  height: 80px;
+  left: 28px;
+  position: absolute;
+  top: 118px;
+  transform: rotate(178.66deg);
+  width: 5px;
+}
+
+.artboard-1 .path-1030 {
+  height: 142px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 56px;
+}
+
+.artboard-1 .path-1030-1 {
+  height: 129px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 55px;
+}
+
+.artboard-1 .path-1030-2 {
+  height: 7px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 3px;
+}
+
+.artboard-1 .path-1030-3 {
+  height: 8px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 3px;
+}
+
+.artboard-1 .path-1030-4 {
+  height: 11px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 37px;
+  width: 2px;
+}
+
+.artboard-1 .path-1030-5 {
+  height: 8px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 4px;
+}
+
+.artboard-1 .path-1030-6 {
+  height: 10px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 3px;
+}
+
+.artboard-1 .path-1030-7 {
+  height: 12px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 5px;
+}
+
+.artboard-1 .path-1030-8 {
+  height: 10px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 3px;
+}
+
+.artboard-1 .path-1030-9 {
+  height: 10px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 71px;
+  width: 3px;
+}
+
+.artboard-1 .path-1030-10 {
+  height: 10px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 87px;
+  width: 4px;
+}
+
+.artboard-1 .path-1030-11 {
+  height: 9px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 86px;
+  width: 4px;
+}
+
+.artboard-1 .path-1030-12 {
+  height: 7px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 88px;
+  width: 4px;
+}
+
+.artboard-1 .path-1030-13 {
+  height: 8px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 106px;
+  width: 3px;
+}
+
+.artboard-1 .path-1030-14 {
+  height: 10px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 103px;
+  width: 4px;
+}
+
+.artboard-1 .group-109280 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 46px;
+  margin-top: 0.22px;
+  min-width: 56px;
+}
+
+.artboard-1 .group-109282 {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 308px;
+  min-width: 57px;
+  padding: 0.0px 0;
+}
+
+.artboard-1 .overlap-group2-15 {
+  height: 198px;
+  position: relative;
+  width: 57px;
+}
+
+.artboard-1 .rectangle-2737-1 {
+  background-color: var(--big-foot-feet);
+  height: 80px;
+  left: 21px;
+  position: absolute;
+  top: 117px;
+  transform: rotate(186.92deg);
+  width: 5px;
+}
+
+.artboard-1 .path-1030-15 {
+  height: 141px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 57px;
+}
+
+.artboard-1 .path-1030-16 {
+  height: 129px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 54px;
+}
+
+.artboard-1 .path-1030-17 {
+  height: 8px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 3px;
+}
+
+.artboard-1 .path-1030-18 {
+  height: 8px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 31px;
+  width: 2px;
+}
+
+.artboard-1 .path-1030-19 {
+  height: 11px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 37px;
+  width: 2px;
+}
+
+.artboard-1 .path-1030-20 {
+  height: 9px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 3px;
+}
+
+.artboard-1 .path-1030-21 {
+  height: 10px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 53px;
+  width: 3px;
+}
+
+.artboard-1 .path-1030-22 {
+  height: 13px;
+  left: 45px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 3px;
+}
+
+.artboard-1 .path-1030-23 {
+  height: 10px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 71px;
+  width: 3px;
+}
+
+.artboard-1 .path-1030-24 {
+  height: 9px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 3px;
+}
+
+.artboard-1 .path-1030-25 {
+  height: 10px;
+  left: 49px;
+  object-fit: cover;
+  position: absolute;
+  top: 89px;
+  width: 3px;
+}
+
+.artboard-1 .path-1030-26 {
+  height: 10px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 87px;
+  width: 3px;
+}
+
+.artboard-1 .path-103 {
+  height: 7px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 88px;
+  width: 3px;
+}
+
+.artboard-1 .path-103-1 {
+  height: 8px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 108px;
+  width: 2px;
+}
+
+.artboard-1 .path-103-2 {
+  height: 10px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 104px;
+  width: 3px;
+}
+
+.artboard-1 .group-109283 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  justify-content: center;
+  margin-left: 62px;
+  margin-top: 2.39px;
+  min-width: 57px;
+}
+
+.artboard-1 .overlap-group3-14 {
+  height: 198px;
+  margin-top: 0;
+  position: relative;
+  width: 57px;
+}
+
+.artboard-1 .overlap-group4-10 {
+  height: 163px;
+  left: 0;
+  position: absolute;
+  top: 147px;
+  width: 738px;
+}
+
+.artboard-1 .overlap-group2-16 {
+  height: 163px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 738px;
+}
+
+.artboard-1 .overlap-group-43 {
+  height: 93px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  width: 738px;
+}
+
+.artboard-1 .path-103103 {
+  height: 51px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 738px;
+}
+
+.artboard-1 .path-103104 {
+  height: 50px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 718px;
+}
+
+.artboard-1 .group-109289 {
+  align-items: flex-start;
+  display: flex;
+  height: 163px;
+  left: 9px;
+  min-width: 719px;
+  position: absolute;
+  top: 0;
+}
+
+.artboard-1 .overlap-group1-18 {
+  align-self: flex-end;
+  height: 150px;
+  margin-bottom: 0;
+  position: relative;
+  width: 180px;
+}
+
+.artboard-1 .path-103117 {
+  height: 126px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 53px;
+}
+
+.artboard-1 .path-103118 {
+  height: 126px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 49px;
+}
+
+.artboard-1 .path-103119 {
+  height: 126px;
+  left: 91px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 46px;
+}
+
+.artboard-1 .path-103120 {
+  height: 127px;
+  left: 137px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 43px;
+}
+
+.artboard-1 .group-109288 {
+  align-items: flex-start;
+  display: flex;
+  height: 135px;
+  margin-left: 3px;
+  margin-top: 0.02px;
+  min-width: 169px;
+  padding: 0.0px 0;
+}
+
+.artboard-1 .path-103113 {
+  align-self: flex-end;
+  height: 127px;
+  margin-bottom: 0;
+  object-fit: cover;
+  width: 40px;
+}
+
+.artboard-1 .path-103114 {
+  align-self: center;
+  height: 127px;
+  margin-bottom: 0.06px;
+  margin-left: 6px;
+  object-fit: cover;
+  width: 37px;
+}
+
+.artboard-1 .path-103115 {
+  height: 126px;
+  margin-left: 10px;
+  margin-top: 1.35px;
+  object-fit: cover;
+  width: 33px;
+}
+
+.artboard-1 .path-103116 {
+  height: 126px;
+  margin-left: 13px;
+  object-fit: cover;
+  width: 30px;
+}
+
+.artboard-1 .group-109287 {
+  align-items: flex-start;
+  display: flex;
+  height: 135px;
+  justify-content: flex-end;
+  margin-left: 16px;
+  min-width: 169px;
+}
+
+.artboard-1 .path-103109 {
+  height: 126px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 30px;
+}
+
+.artboard-1 .path-103110 {
+  height: 126px;
+  margin-left: 13px;
+  margin-top: 1.32px;
+  object-fit: cover;
+  width: 33px;
+}
+
+.artboard-1 .path-103111 {
+  align-self: center;
+  height: 127px;
+  margin-bottom: 0.1px;
+  margin-left: 10px;
+  object-fit: cover;
+  width: 37px;
+}
+
+.artboard-1 .path-103112 {
+  align-self: flex-end;
+  height: 127px;
+  margin-bottom: 0;
+  margin-left: 6px;
+  object-fit: cover;
+  width: 40px;
+}
+
+.artboard-1 .overlap-group-44 {
+  align-self: flex-end;
+  height: 150px;
+  margin-bottom: 0.26px;
+  margin-left: 3px;
+  position: relative;
+  width: 180px;
+}
+
+.artboard-1 .path-103105 {
+  height: 127px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 43px;
+}
+
+.artboard-1 .path-103106 {
+  height: 126px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 46px;
+}
+
+.artboard-1 .path-103107 {
+  height: 126px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 49px;
+}
+
+.artboard-1 .path-103108 {
+  height: 126px;
+  left: 128px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 53px;
+}
+
+.artboard-1 .group-109291 {
+  height: 86px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 683px;
+}
+
+.artboard-1 .overlap-group5-9 {
+  height: 274px;
+  left: 246px;
+  position: absolute;
+  top: 0;
+  width: 247px;
+}
+
+.artboard-1 .path-103153 {
+  height: 265px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 220px;
+}
+
+.artboard-1 .group-109293 {
+  align-items: flex-end;
+  display: flex;
+  height: 265px;
+  justify-content: flex-end;
+  left: 22px;
+  min-width: 204px;
+  position: absolute;
+  top: 8px;
+}
+
+.artboard-1 .path-103154 {
+  height: 210px;
+  margin-bottom: 0;
+  object-fit: cover;
+  width: 21px;
+}
+
+.artboard-1 .path-10315 {
+  height: 246px;
+  margin-bottom: 0;
+  margin-left: 24px;
+  object-fit: cover;
+  width: 21px;
+}
+
+.artboard-1 .path-103156 {
+  align-self: flex-start;
+  height: 265px;
+  margin-left: 24px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 21px;
+}
+
+.artboard-1 .path-103158 {
+  height: 210px;
+  margin-bottom: 0;
+  margin-left: 24px;
+  object-fit: cover;
+  width: 21px;
+}
+
+.artboard-1 .overlap-group-45 {
+  height: 118px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 247px;
+}
+
+.artboard-1 .group-109294 {
+  background-image: url(../img/rectangle-27374@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 53px;
+  left: 97px;
+  position: absolute;
+  top: 53px;
+  width: 54px;
+}
+
+.artboard-1 .path-103159 {
+  flex: 1;
+  margin-bottom: 7.0px;
+  margin-left: 7.1px;
+  margin-right: 7.1px;
+  margin-top: 7.0px;
+  object-fit: cover;
+  width: 39.27px;
+}
+
+.artboard-1 .path-103160 {
+  height: 118px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 247px;
+}
+
+.artboard-1 .overlap-group1-19 {
+  height: 114px;
+  left: 83px;
+  position: absolute;
+  top: 160px;
+  width: 82px;
+}
+
+.artboard-1 .overlap-group-46 {
+  height: 114px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 82px;
+}
+
+.artboard-1 .rectangle-27375 {
+  background-color: var(--white);
+  height: 82px;
+  left: -16px;
+  position: absolute;
+  top: 16px;
+  transform: rotate(90deg);
+  width: 114px;
+}
+
+.artboard-1 .rectangle-27376 {
+  background-color: #512d15;
+  height: 68px;
+  left: -7px;
+  position: absolute;
+  top: 23px;
+  transform: rotate(90deg);
+  width: 96px;
+}
+
+.artboard-1 .path-103161 {
+  height: 101px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 75px;
+}
+
+.artboard-1 .group-109306 {
+  display: flex;
+  height: 178px;
+  left: 565px;
+  position: absolute;
+  top: 0;
+  width: 229px;
+}
+
+.artboard-1 .group-109056-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 228.6px;
+}
+
+.artboard-1 .overlap-group3-15 {
+  height: 178px;
+  position: relative;
+  width: 229px;
+}
+
+.artboard-1 .path-102287-1 {
+  height: 145px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 229px;
+}
+
+.artboard-1 .overlap-group-47 {
+  height: 178px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 229px;
+}
+
+.artboard-1 .path-102288-1 {
+  height: 61px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 37px;
+  width: 61px;
+}
+
+.artboard-1 .ellipse-3418-1 {
+  background-color: var(--merino);
+  border-radius: 43.58px;
+  height: 87px;
+  left: 82px;
+  position: absolute;
+  top: 18px;
+  transform: rotate(-45.00deg);
+  width: 87px;
+}
+
+.artboard-1 .path-102289-1 {
+  height: 69px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 69px;
+}
+
+.artboard-1 .path-102290-1 {
+  height: 82px;
+  left: 147px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 82px;
+}
+
+.artboard-1 .ellipse-3419-1 {
+  background-color: var(--merino);
+  border-radius: 40.81px;
+  height: 82px;
+  left: 38px;
+  position: absolute;
+  top: 79px;
+  transform: rotate(-45.00deg);
+  width: 82px;
+}
+
+.artboard-1 .path-102291-1 {
+  height: 82px;
+  left: 110px;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 82px;
+}
+
+.artboard-1 .group-109054-2 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-27243-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 145px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 229px;
+  mix-blend-mode: soft-light;
+  opacity: 0.5;
+  position: absolute;
+  top: 18px;
+}
+
+.artboard-1 .overlap-group-7 {
+  height: 145px;
+  margin-bottom: 0;
+  position: relative;
+  width: 229px;
+}
+
+.artboard-1 .rectangle-272-6 {
+  height: 87px;
+  left: 82px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 87px;
+}
+
+.artboard-1 .rectangle-272-7 {
+  height: 69px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 69px;
+}
+
+.artboard-1 .rectangle-272-8 {
+  height: 82px;
+  left: 110px;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 82px;
+}
+
+.artboard-1 .rectangle-272-9 {
+  height: 62px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 61px;
+}
+
+.artboard-1 .rectangle-272-10 {
+  height: 82px;
+  left: 147px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 82px;
+}
+
+.artboard-1 .rectangle-272-11 {
+  height: 82px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 61px;
+  width: 82px;
+}
+
+.artboard-1 .group-109055-2 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-27243-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 145px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 229px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 18px;
+}
+
+.artboard-1 .group-109307 {
+  display: flex;
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 152px;
+  width: 130px;
+}
+
+.artboard-1 .group-109056-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 129.89px;
+  padding: 0 0.0px;
+}
+
+.artboard-1 .overlap-group3-16 {
+  height: 101px;
+  position: relative;
+  width: 130px;
+}
+
+.artboard-1 .path-102287-2 {
+  height: 82px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 130px;
+}
+
+.artboard-1 .overlap-group-48 {
+  height: 101px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 130px;
+}
+
+.artboard-1 .path-102288-2 {
+  height: 35px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 21px;
+  width: 35px;
+}
+
+.artboard-1 .ellipse-3418-2 {
+  background-color: var(--merino);
+  border-radius: 24.76px;
+  height: 50px;
+  left: 47px;
+  position: absolute;
+  top: 10px;
+  transform: rotate(-45.00deg);
+  width: 50px;
+}
+
+.artboard-1 .path-102289-2 {
+  height: 39px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 39px;
+}
+
+.artboard-1 .path-102290-2 {
+  height: 46px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 46px;
+}
+
+.artboard-1 .ellipse-3419-2 {
+  background-color: var(--merino);
+  border-radius: 23.19px;
+  height: 46px;
+  left: 22px;
+  position: absolute;
+  top: 45px;
+  transform: rotate(-45.00deg);
+  width: 46px;
+}
+
+.artboard-1 .path-102291-2 {
+  height: 46px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 46px;
+}
+
+.artboard-1 .group-109054-3 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-27243-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 82px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 130px;
+  mix-blend-mode: soft-light;
+  opacity: 0.5;
+  position: absolute;
+  top: 10px;
+}
+
+.artboard-1 .overlap-group-8 {
+  height: 82px;
+  margin-bottom: 0;
+  position: relative;
+  width: 130px;
+}
+
+.artboard-1 .rectangle-272-12 {
+  height: 50px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.artboard-1 .rectangle-272-13 {
+  height: 39px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 39px;
+}
+
+.artboard-1 .rectangle-272-14 {
+  height: 46px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  width: 46px;
+}
+
+.artboard-1 .rectangle-272-15 {
+  height: 35px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 35px;
+}
+
+.artboard-1 .rectangle-272-16 {
+  height: 46px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 46px;
+}
+
+.artboard-1 .rectangle-272-17 {
+  height: 46px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  width: 46px;
+}
+
+.artboard-1 .group-109055-3 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-27243-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 82px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 130px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 10px;
+}
+
+.artboard-1 .path-103178 {
+  height: 130px;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 437px;
+  width: 718px;
+}
+
+.artboard-1 .overlap-group7-7 {
+  height: 68px;
+  left: 100px;
+  position: absolute;
+  top: 458px;
+  width: 82px;
+}
+
+.artboard-1 .path-1031 {
+  height: 10px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 82px;
+}
+
+.artboard-1 .overlap-group1-20 {
+  height: 68px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.artboard-1 .overlap-group-49 {
+  height: 68px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 63px;
+}
+
+.artboard-1 .path-103164 {
+  height: 18px;
+  left: 21px;
+  object-fit: cover;
+  position: absolute;
+  top: 50px;
+  width: 14px;
+}
+
+.artboard-1 .path-103165 {
+  height: 18px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 14px;
+}
+
+.artboard-1 .path-1031-1 {
+  height: 53px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 63px;
+}
+
+.artboard-1 .path-103167 {
+  height: 15px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 32px;
+}
+
+.artboard-1 .path-103168 {
+  height: 4px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 4px;
+}
+
+.artboard-1 .path-103169 {
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 8px;
+}
+
+.artboard-1 .overlap-group8-7 {
+  height: 68px;
+  left: 249px;
+  position: absolute;
+  top: 421px;
+  width: 82px;
+}
+
+.artboard-1 .overlap-group1-21 {
+  height: 68px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 67px;
+}
+
+.artboard-1 .overlap-group-50 {
+  height: 68px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 63px;
+}
+
+.artboard-1 .path-103171 {
+  height: 18px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 50px;
+  width: 14px;
+}
+
+.artboard-1 .path-103172 {
+  height: 18px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 14px;
+}
+
+.artboard-1 .path-103174 {
+  height: 15px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 32px;
+}
+
+.artboard-1 .path-103175 {
+  height: 4px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 4px;
+}
+
+.artboard-1 .path-103176 {
+  height: 8px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 8px;
+}
+
+.artboard-1 .path-103177 {
+  height: 25px;
+  left: 498px;
+  object-fit: cover;
+  position: absolute;
+  top: 490px;
+  width: 195px;
+}
+
+.artboard-1 .fatcow-pointing-1 {
+  height: 319px;
+  left: 458px;
+  object-fit: cover;
+  position: absolute;
+  top: 212px;
+  width: 322px;
+}
+
+.artboard-1 .rectangle-27377 {
+  background: linear-gradient(90deg, #9c8bd9 3.87%, #dc4a84 95.78%);
+  border-radius: 50px;
+  box-shadow: -5px 3px 6px #00000029;
+  height: 100px;
+  left: 211px;
+  position: absolute;
+  top: 780px;
+  width: 306px;
+}
+
+.artboard-1 .rectangle-27396 {
+  background: linear-gradient(90deg, #dc4a84 3.87%, #ffca21 95.78%);
+  border-radius: 50px;
+  box-shadow: -5px 3px 6px #00000029;
+  height: 100px;
+  left: 582px;
+  position: absolute;
+  top: 780px;
+  width: 335px;
+}
+
+.artboard-1 .rectangle-27399 {
+  background: linear-gradient(90deg, #dc4a84 3.87%, #ffca21 95.78%);
+  border-radius: 50px;
+  box-shadow: -5px 3px 6px #00000029;
+  height: 100px;
+  left: 1445px;
+  position: absolute;
+  top: 51px;
+  width: 335px;
+}
+
+.artboard-1 .register-now {
+  left: 277px;
+  letter-spacing: -0.54px;
+  line-height: 30.3px;
+  position: absolute;
+  top: 813px;
+  white-space: nowrap;
+}
+
+.artboard-1 .view-specifications {
+  color: var(--white);
+  font-family: var(--font-family-gilroy);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 828px;
+  letter-spacing: 0;
+  line-height: 30.3px;
+  position: absolute;
+  top: 3012px;
+  white-space: nowrap;
+}
+
+.artboard-1 .span {
+  letter-spacing: -0.54px;
+}
+
+.artboard-1 .span-1 {
+  letter-spacing: -0.57px;
+}
+
+.artboard-1 .group-109312 {
+  align-items: flex-end;
+  display: flex;
+  height: 80px;
+  left: 211px;
+  min-width: 470px;
+  position: absolute;
+  top: 57px;
+}
+
+.artboard-1 .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--sunglow);
+  border-radius: 36.5px;
+  display: flex;
+  margin-bottom: 0.07px;
+  min-width: 73px;
+}
+
+.artboard-1 .mask-group-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 73px;
+  justify-content: flex-end;
+  overflow: hidden;
+  width: 73px;
+}
+
+.artboard-1 .group-317 {
+  align-items: flex-start;
+  display: flex;
+  height: 63.63px;
+  margin-bottom: -2.8px;
+  margin-right: 8.7px;
+  min-width: 52.93px;
+}
+
+.artboard-1 .overlap-group3-1 {
+  height: 64px;
+  margin-top: 0;
+  position: relative;
+  width: 53px;
+}
+
+.artboard-1 .group-263 {
+  background-image: url(../img/path-1-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 8px;
+  left: 33px;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.artboard-1 .group-264 {
+  background-image: url(../img/path-2-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 8px;
+  left: 11px;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.artboard-1 .group-265 {
+  background-image: url(../img/path-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 36px;
+  position: absolute;
+  top: 6px;
+  width: 10px;
+}
+
+.artboard-1 .group-266 {
+  background-image: url(../img/path-4-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 3px;
+  position: absolute;
+  top: 6px;
+  width: 10px;
+}
+
+.artboard-1 .overlap-group-9 {
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 50px;
+}
+
+.artboard-1 .group-267 {
+  background-image: url(../img/path-5-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 46px;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.artboard-1 .group-268 {
+  background-image: url(../img/path-6-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 13px;
+  left: 1px;
+  position: absolute;
+  top: 48px;
+  width: 24px;
+}
+
+.artboard-1 .group-269 {
+  background-image: url(../img/path-7@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 4px;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.artboard-1 .group-270 {
+  background-image: url(../img/path-8-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.artboard-1 .group-271 {
+  background-image: url(../img/path-9-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 13px;
+  left: 25px;
+  position: absolute;
+  top: 48px;
+  width: 24px;
+}
+
+.artboard-1 .group-272 {
+  background-image: url(../img/path-10-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.artboard-1 .group-273 {
+  background-image: url(../img/path-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 50px;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.artboard-1 .group-276 {
+  background-image: url(../img/path-12@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23px;
+  left: 29px;
+  position: absolute;
+  top: 5px;
+  width: 18px;
+}
+
+.artboard-1 .group-278 {
+  background-image: url(../img/path-13-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 12px;
+  left: 46px;
+  position: absolute;
+  top: 45px;
+  width: 5px;
+}
+
+.artboard-1 .group-285 {
+  display: flex;
+  height: 21px;
+  left: 13px;
+  position: absolute;
+  top: 19px;
+  width: 39px;
+}
+
+.artboard-1 .group-284 {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 39.13px;
+}
+
+.artboard-1 .group-283 {
+  background-image: url(../img/group-279-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  margin-bottom: -0.9px;
+  margin-left: -0.9px;
+  margin-right: -0.9px;
+  margin-top: -0.9px;
+  width: 40.89px;
+}
+
+.artboard-1 .group-292 {
+  display: flex;
+  height: 20px;
+  left: 15px;
+  position: absolute;
+  top: 19px;
+  width: 38px;
+}
+
+.artboard-1 .group-291 {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 37.7px;
+}
+
+.artboard-1 .group-290 {
+  background-image: url(../img/group-286-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  margin-bottom: -0.9px;
+  margin-left: -0.9px;
+  margin-right: -0.9px;
+  margin-top: -0.9px;
+  width: 39.46px;
+}
+
+.artboard-1 .group-302 {
+  align-items: flex-end;
+  background-image: url(../img/group-293@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 7px;
+  left: 43px;
+  min-width: 5px;
+  position: absolute;
+  top: 25px;
+}
+
+.artboard-1 .overlap-group1-22 {
+  align-items: center;
+  background-image: url(../img/group-296@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 7px;
+  justify-content: flex-end;
+  min-width: 4px;
+}
+
+.artboard-1 .group-3 {
+  background-image: url(../img/group-299@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 6px;
+  width: 4px;
+}
+
+.artboard-1 .group-312 {
+  align-items: flex-end;
+  background-image: url(../img/group-293@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 7px;
+  left: 22px;
+  min-width: 5px;
+  position: absolute;
+  top: 25px;
+}
+
+.artboard-1 .overlap-group2-17 {
+  align-items: center;
+  background-image: url(../img/group-296@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 7px;
+  justify-content: flex-end;
+  min-width: 4px;
+  padding: 0 0.0px;
+}
+
+.artboard-1 .group-316 {
+  background-image: url(../img/path-14@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 30px;
+  left: 0;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 33px;
+  width: 17px;
+}
+
+.artboard-1 .ellipse-677 {
+  background-color: var(--black);
+  border-radius: 2.14px;
+  height: 4px;
+  left: 16px;
+  position: absolute;
+  top: 14px;
+  width: 4px;
+}
+
+.artboard-1 .ellipse-678 {
+  background-color: var(--black);
+  border-radius: 2.14px;
+  height: 4px;
+  left: 37px;
+  position: absolute;
+  top: 14px;
+  width: 4px;
+}
+
+.artboard-1 .fatcow {
+  color: #5c3411;
+  font-family: var(--font-family-roundsblack);
+  font-size: var(--font-size-xl);
+  letter-spacing: 0;
+  line-height: 72.3px;
+  margin-bottom: -5.86px;
+  margin-left: 6px;
+  min-height: 82px;
+  min-width: 227px;
+  white-space: nowrap;
+}
+
+.artboard-1 .group-319 {
+  align-self: center;
+  display: flex;
+  height: 39px;
+  margin-left: 49px;
+  margin-top: 7.83px;
+  width: 115px;
+}
+
+.artboard-1 .group-318 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  min-width: 115.09px;
+}
+
+.artboard-1 .path-15 {
+  height: 39px;
+  object-fit: cover;
+  width: 35px;
+}
+
+.artboard-1 .path-16 {
+  height: 39px;
+  margin-left: 7px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.artboard-1 .path-17 {
+  height: 39px;
+  margin-left: 5px;
+  object-fit: cover;
+  width: 36px;
+}
+
+.artboard-1 .fatcow-seenon1 {
+  height: 67px;
+  left: 854px;
+  object-fit: cover;
+  position: absolute;
+  top: 10698px;
+  width: 306px;
+}
+
+.artboard-1 .fatcow-seenon2 {
+  height: 127px;
+  left: 580px;
+  object-fit: cover;
+  position: absolute;
+  top: 10667px;
+  width: 166px;
+}
+
+.artboard-1 .fatcow-seenon4 {
+  height: 100px;
+  left: 1267px;
+  object-fit: cover;
+  position: absolute;
+  top: 10681px;
+  width: 167px;
+}
+
+.artboard-1 .fatcow-seenon5 {
+  height: 83px;
+  left: 1542px;
+  object-fit: cover;
+  position: absolute;
+  top: 10689px;
+  width: 178px;
+}
+
+.artboard-1 .fatcow-seenon {
+  height: 66px;
+  left: 187px;
+  object-fit: cover;
+  position: absolute;
+  top: 10698px;
+  width: 285px;
+}
+
+.artboard-1 .buy-fatcow-nft {
+  left: 644px;
+  letter-spacing: 0;
+  line-height: 30.3px;
+  position: absolute;
+  top: 812px;
+  white-space: nowrap;
+}
+
+.artboard-1 .buy-fatcow-nft-1 {
+  left: 1507px;
+  letter-spacing: 0;
+  line-height: 30.3px;
+  position: absolute;
+  top: 82px;
+  white-space: nowrap;
+}
+
+.artboard-1 .place {
+  color: #dc4a84;
+  font-family: var(--font-family-gilroy-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 1240px;
+  letter-spacing: 0;
+  line-height: 30.3px;
+  position: absolute;
+  top: 82px;
+  white-space: nowrap;
+}
+
+.artboard-1 .place-1 {
+  color: #dc4a84;
+  font-family: var(--font-family-gilroy-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 1049px;
+  letter-spacing: 0;
+  line-height: 30.3px;
+  position: absolute;
+  top: 82px;
+  white-space: nowrap;
+}
+
+.artboard-1 .overlap-group31 {
+  height: 1013px;
+  position: relative;
+  width: 1920px;
+}
+
+.artboard-1 .rectangle-27400 {
+  background: linear-gradient(180deg, #ffca21 0%, #da4c87 100%);
+  height: 480px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 1920px;
+}
+
+.artboard-1 .overlap-group6-9 {
+  height: 654px;
+  left: 141px;
+  position: absolute;
+  top: 9px;
+  width: 720px;
+}
+
+.artboard-1 .rectangle-5-1 {
+  height: 654px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 654px;
+}
+
+.artboard-1 .fatcow-pointing-2 {
+  height: 452px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 183px;
+  width: 456px;
+}
+
+.artboard-1 .group-109321 {
+  align-items: flex-end;
+  display: flex;
+  height: 209px;
+  left: 363px;
+  min-width: 188px;
+  position: absolute;
+  top: 103px;
+  transform: rotate(18.00deg);
+}
+
+.artboard-1 .overlap-group5-10 {
+  height: 278px;
+  margin-bottom: -51.67px;
+  margin-left: -31px;
+  position: relative;
+  width: 250px;
+}
+
+.artboard-1 .overlap-group-51 {
+  height: 277px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+
+.artboard-1 .group-109270-1 {
+  display: flex;
+  height: 174px;
+  left: 31px;
+  position: absolute;
+  top: 52px;
+  width: 188px;
+}
+
+.artboard-1 .path-103041-1 {
+  flex: 1;
+  margin-bottom: -24.8px;
+  margin-left: -22.3px;
+  margin-right: -22.3px;
+  margin-top: -24.8px;
+  object-fit: cover;
+  transform: rotate(-18.00deg);
+  width: 232.55px;
+}
+
+.artboard-1 .rectangle-27344-1 {
+  height: 175px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  transform: rotate(-18.00deg);
+  width: 206px;
+}
+
+.artboard-1 .rectangle-27345-1 {
+  height: 78px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  transform: rotate(-18.00deg);
+  width: 175px;
+}
+
+.artboard-1 .rectangle-27346-1 {
+  height: 117px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 32px;
+  transform: rotate(-18.00deg);
+  width: 198px;
+}
+
+.artboard-1 .overlap-group1-23 {
+  height: 202px;
+  left: 0;
+  position: absolute;
+  top: 36px;
+  width: 219px;
+}
+
+.artboard-1 .rectangle-27347-1 {
+  height: 168px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  transform: rotate(-18.00deg);
+  width: 120px;
+}
+
+.artboard-1 .rectangle-27348-1 {
+  height: 166px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  transform: rotate(-18.00deg);
+  width: 102px;
+}
+
+.artboard-1 .rectangle-27349-1 {
+  height: 30px;
+  left: 125px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  transform: rotate(-18.00deg);
+  width: 66px;
+}
+
+.artboard-1 .overlap-group2-18 {
+  height: 61px;
+  left: 42px;
+  position: absolute;
+  top: 39px;
+  width: 152px;
+}
+
+.artboard-1 .rectangle-27350-1 {
+  height: 40px;
+  left: 26px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  transform: rotate(-18.00deg);
+  width: 68px;
+}
+
+.artboard-1 .rectangle-27351-1 {
+  height: 30px;
+  left: 90px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  transform: rotate(-18.00deg);
+  width: 58px;
+}
+
+.artboard-1 .rectangle-27352-1 {
+  height: 30px;
+  left: 3px;
+  mix-blend-mode: multiply;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-18.00deg);
+  width: 56px;
+}
+
+.artboard-1 .overlap-group4-11 {
+  height: 84px;
+  left: 34px;
+  position: absolute;
+  top: 0;
+  width: 176px;
+}
+
+.artboard-1 .overlap-group-52 {
+  height: 84px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 93px;
+}
+
+.artboard-1 .rectangle-27353-1 {
+  height: 53px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  transform: rotate(-18.00deg);
+  width: 59px;
+}
+
+.artboard-1 .rectangle-27354-1 {
+  height: 63px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  transform: rotate(-18.00deg);
+  width: 78px;
+}
+
+.artboard-1 .rectangle-27355-1 {
+  height: 14px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 56px;
+  transform: rotate(-18.00deg);
+  width: 28px;
+}
+
+.artboard-1 .overlap-group1-24 {
+  height: 65px;
+  left: 68px;
+  position: absolute;
+  top: 5px;
+  width: 72px;
+}
+
+.artboard-1 .rectangle-27356-1 {
+  height: 47px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  transform: rotate(-18.00deg);
+  width: 29px;
+}
+
+.artboard-1 .rectangle-27357-1 {
+  height: 52px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  transform: rotate(-18.00deg);
+  width: 52px;
+}
+
+.artboard-1 .rectangle-27358-1 {
+  height: 25px;
+  left: 68px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  transform: rotate(-18.00deg);
+  width: 43px;
+}
+
+.artboard-1 .overlap-group2-19 {
+  height: 63px;
+  left: 35px;
+  position: absolute;
+  top: 17px;
+  width: 77px;
+}
+
+.artboard-1 .rectangle-27359-1 {
+  height: 37px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  transform: rotate(-18.00deg);
+  width: 30px;
+}
+
+.artboard-1 .rectangle-27360-1 {
+  height: 44px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  transform: rotate(-18.00deg);
+  width: 35px;
+}
+
+.artboard-1 .rectangle-27361-1 {
+  height: 50px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  transform: rotate(-18.00deg);
+  width: 50px;
+}
+
+.artboard-1 .overlap-group3-17 {
+  height: 73px;
+  left: 89px;
+  position: absolute;
+  top: 10px;
+  width: 87px;
+}
+
+.artboard-1 .rectangle-27362-1 {
+  height: 55px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  transform: rotate(-18.00deg);
+  width: 66px;
+}
+
+.artboard-1 .rectangle-27363-1 {
+  height: 43px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  transform: rotate(-18.00deg);
+  width: 39px;
+}
+
+.artboard-1 .rectangle-27364-1 {
+  height: 46px;
+  left: 7px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  transform: rotate(-18.00deg);
+  width: 49px;
+}
+
+.artboard-1 .rectangle-27365-1 {
+  height: 22px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  transform: rotate(-18.00deg);
+  width: 45px;
+}
+
+.artboard-1 .fatcow-coin-22 {
+  height: 113px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 301px;
+  width: 111px;
+}
+
+.artboard-1 .fatcow-coin-23 {
+  height: 113px;
+  left: 155px;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 114px;
+}
+
+.artboard-1 .fatcow-coin-24 {
+  height: 112px;
+  left: 539px;
+  object-fit: cover;
+  position: absolute;
+  top: 245px;
+  width: 111px;
+}
+
+.artboard-1 .rectangle-27389 {
+  background-color: #5c3411;
+  height: 534px;
+  left: 0;
+  position: absolute;
+  top: 479px;
+  width: 1920px;
+}
+
+.artboard-1 .path-103180 {
+  height: 62px;
+  left: 1692px;
+  object-fit: cover;
+  position: absolute;
+  top: 685px;
+  width: 62px;
+}
+
+.artboard-1 .group-109311 {
+  background-image: url(../img/group-109308@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 65px;
+  left: 1574px;
+  position: absolute;
+  top: 683px;
+  width: 65px;
+}
+
+.artboard-1 .path-103198 {
+  height: 58px;
+  left: 1451px;
+  object-fit: cover;
+  position: absolute;
+  top: 687px;
+  width: 70px;
+}
+
+.artboard-1 .group-109313 {
+  align-items: flex-end;
+  display: flex;
+  height: 80px;
+  left: 211px;
+  min-width: 470px;
+  position: absolute;
+  top: 569px;
+}
+
+.artboard-1 .group-265-1 {
+  background-image: url(../img/path-3-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 36px;
+  position: absolute;
+  top: 6px;
+  width: 10px;
+}
+
+.artboard-1 .group-269-1 {
+  background-image: url(../img/path-7-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 4px;
+  position: absolute;
+  top: 16px;
+  width: 1px;
+}
+
+.artboard-1 .group-273-1 {
+  background-image: url(../img/path-11-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 50px;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.artboard-1 .group-276-1 {
+  background-image: url(../img/path-12-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23px;
+  left: 29px;
+  position: absolute;
+  top: 5px;
+  width: 18px;
+}
+
+.artboard-1 .group-283-1 {
+  background-image: url(../img/group-279-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  margin-bottom: -0.9px;
+  margin-left: -0.9px;
+  margin-right: -0.9px;
+  margin-top: -0.9px;
+  width: 40.89px;
+}
+
+.artboard-1 .group-302-1 {
+  align-items: flex-end;
+  background-image: url(../img/group-293-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 7px;
+  left: 43px;
+  min-width: 5px;
+  padding: 0.0px 0.0px;
+  position: absolute;
+  top: 25px;
+}
+
+.artboard-1 .overlap-group-10 {
+  align-items: center;
+  background-image: url(../img/group-296-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 7px;
+  justify-content: flex-end;
+  min-width: 4px;
+  padding: 0 0.0px;
+}
+
+.artboard-1 .group-3-1 {
+  background-image: url(../img/group-299-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 6px;
+  width: 4px;
+}
+
+.artboard-1 .group-312-1 {
+  align-items: flex-end;
+  background-image: url(../img/group-293-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 7px;
+  left: 22px;
+  min-width: 5px;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 25px;
+}
+
+.artboard-1 .group-316-1 {
+  background-image: url(../img/path-14-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 30px;
+  left: 0;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 33px;
+  width: 17px;
+}
+
+.artboard-1 .fatcow-1 {
+  color: var(--sunglow);
+  font-family: var(--font-family-roundsblack);
+  font-size: var(--font-size-xl);
+  letter-spacing: 0;
+  line-height: 72.3px;
+  margin-bottom: -5.86px;
+  margin-left: 6px;
+  min-height: 82px;
+  min-width: 227px;
+  white-space: nowrap;
+}
+
+.artboard-1 .path-15-1 {
+  height: 39px;
+  margin-bottom: 0;
+  object-fit: cover;
+  width: 35px;
+}
+
+.artboard-1 .path-16-1 {
+  height: 39px;
+  margin-bottom: 0;
+  margin-left: 7px;
+  object-fit: cover;
+  width: 32px;
+}
+
+.artboard-1 .path-17-1 {
+  height: 39px;
+  margin-bottom: 0;
+  margin-left: 5px;
+  object-fit: cover;
+  width: 36px;
+}
+
+.artboard-1 .text-18 {
+  color: var(--white);
+  font-family: var(--font-family-gilroy-medium);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  left: 211px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 672px;
+  white-space: nowrap;
+}
+
+.artboard-1 .text-19 {
+  color: var(--white);
+  font-family: var(--font-family-gilroy-medium);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  left: 779px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 672px;
+  white-space: nowrap;
+}
+
+.artboard-1 .be-in-the-know {
+  color: var(--white);
+  font-family: var(--font-family-gilroy-extrabold);
+  font-size: var(--font-size-l);
+  font-weight: 800;
+  left: 779px;
+  letter-spacing: 0;
+  line-height: 26.8px;
+  position: absolute;
+  top: 614px;
+  white-space: nowrap;
+}
+
+.artboard-1 .follow-us-on {
+  color: var(--white);
+  font-family: var(--font-family-gilroy-extrabold);
+  font-size: var(--font-size-l);
+  font-weight: 800;
+  left: 1437px;
+  letter-spacing: 0;
+  line-height: 26.8px;
+  position: absolute;
+  top: 614px;
+  white-space: nowrap;
+}
+
+.artboard-1 .group-109320 {
+  display: flex;
+  height: 100px;
+  left: 901px;
+  position: absolute;
+  top: 292px;
+  width: 706px;
+}
+
+.artboard-1 .group-109319 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 706px;
+}
+
+.artboard-1 .overlap-group1-25 {
+  align-items: flex-end;
+  background: linear-gradient(90deg, #9c8bd9 3.87%, #dc4a84 95.78%);
+  border-radius: 50px;
+  box-shadow: -5px 3px 6px #00000029;
+  display: flex;
+  height: 100px;
+  justify-content: flex-end;
+  min-width: 306px;
+  padding: 25.1px 23px;
+}
+
+.artboard-1 .register-now-1 {
+  letter-spacing: -0.54px;
+  line-height: 30.3px;
+  min-height: 42px;
+  min-width: 217px;
+  white-space: nowrap;
+}
+
+.artboard-1 .overlap-group-53 {
+  align-items: flex-end;
+  background: linear-gradient(90deg, #dc4a84 3.87%, #ffca21 95.78%);
+  border-radius: 50px;
+  box-shadow: -5px 3px 6px #00000029;
+  display: flex;
+  height: 100px;
+  justify-content: flex-end;
+  margin-left: 65px;
+  min-width: 335px;
+  padding: 26.1px 17px;
+}
+
+.artboard-1 .buy-fatcow-nft-2 {
+  letter-spacing: 0;
+  line-height: 30.3px;
+  min-height: 42px;
+  min-width: 256px;
+  white-space: nowrap;
+}
+
+.artboard-1 .copyright {
+  color: var(--white);
+  font-family: var(--font-family-gilroy-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  left: 211px;
+  letter-spacing: 0;
+  line-height: 38.4px;
+  position: absolute;
+  top: 880px;
+  white-space: nowrap;
+}
+
+.artboard-1 .text-20 {
+  color: var(--white);
+  font-family: var(--font-family-gilroy-bold);
+  font-size: var(--font-size-xxl);
+  left: 901px;
+  letter-spacing: 0;
+  line-height: 75px;
+  position: absolute;
+  top: 87px;
+  white-space: nowrap;
+}
