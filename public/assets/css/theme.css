@@ -62,6 +62,11 @@ body {
   line-height: 1.5;
   color: #5E6282;
   background-color: #DBF4FF;
+  no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -260,6 +265,10 @@ pre code {
   word-break: normal;
 }
 
+.transparent-img {
+background-color: transparent;
+  background-color: #DBF4FF;
+}
 code {
   font-size: 75%;
   color: #D42DA3;
@@ -291,7 +300,7 @@ figure {
 img,
 svg {
   vertical-align: middle;
-  background-color: #DBF4FF;
+  background-color: transparent;
 }
 
 table {
@@ -603,6 +612,7 @@ progress {
 .img-fluid {
   max-width: 100%;
   height: auto;
+  background-color: transparent;
 }
 
 .img-thumbnail {
@@ -3575,6 +3585,14 @@ fieldset:disabled .btn {
   border-color: #F1A501;
 }
 
+
+.btn-grad {background-image: linear-gradient(to right, #9C8BD9 , #DC4A84);}
+.btn-grad:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+}
+
 .btn-primary:hover {
   color: #FFFEFE;
   background-color: #cd8c01;
@@ -4191,7 +4209,8 @@ fieldset:disabled .btn {
 .btn-lg, .btn-group-lg > .btn {
   padding: 0.8rem 1.7rem;
   font-size: 1.125rem;
-  border-radius: 0.625rem;
+  color: white;
+  border-radius: 3rem;
 }
 
 .btn-sm, .btn-group-sm > .btn {
@@ -5273,6 +5292,7 @@ fieldset:disabled .btn {
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 1.5rem;
+  background-color: transparent;
 }
 
 .card > hr {
@@ -19501,8 +19521,6 @@ iframe {
   top: 2.5rem;
   width: 20rem;
   height: 0.8125rem;
-  background-image: url(../img/hero/shape.svg);
-  background-size: contain;
   z-index: -1;
 }
 
@@ -19611,7 +19629,7 @@ iframe {
 
 .gradient-red-orange {
   height: 490px;
-  background-image: linear-gradient(#FFCA21, #DA4C87);
+  background-image: linear-gradient(#DA4C87, #FFCA21);
 }
 
 .gradient-as-seen-on {
@@ -19630,6 +19648,15 @@ iframe {
 
 .linear-text-small {
   font-size: 32px;
+   background: -webkit-linear-gradient(left, #9C8BD9 , #DC4A84);
+   background: -o-linear-gradient(right, #9C8BD9, #DC4A84);
+   background: -moz-linear-gradient(right, #9C8BD9, #DC4A84);
+   background: linear-gradient(to right, #9C8BD9 , #DC4A84);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.linear-color {
    background: -webkit-linear-gradient(left, #9C8BD9 , #DC4A84);
    background: -o-linear-gradient(right, #9C8BD9, #DC4A84);
    background: -moz-linear-gradient(right, #9C8BD9, #DC4A84);
