@@ -20414,6 +20414,27 @@ iframe {
     background-color: #FFE4AA;
     margin: 3%;
 }
+
+.carousel-indicators li {
+  background-color: white;
+  height: 15px;
+  width: 15px;
+  border-radius: 12px;
+  z-index: 5 !important;
+  margin: 0 5px;
+  cursor: pointer;
+    border: 2px solid black;
+}
+.carousel-indicators li.active {
+  background-color: #DBF4FF;
+  height: 15px;
+  width: 15px;
+  border-radius: 12px;
+  z-index: 5 !important;
+  padding: 0 5px;
+  cursor: pointer;
+  border: 2px solid black;
+}
 /*-----------------------------------------------
 |   User Styles
 -----------------------------------------------*/
