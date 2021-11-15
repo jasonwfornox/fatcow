@@ -45,8 +45,8 @@
 	--bs-danger: #DF6951;
 	--bs-light: #F0F4F9;
 	--bs-dark: #212832;
-	--bs-font-sans-serif: 'Gilroy-Medium';
-	--bs-font-monospace: 'Gilroy-Medium';
+	--bs-font-sans-serif: 'Gilroy-Bold';
+	--bs-font-monospace: 'Gilroy-Bold';
 	--bs-gradient: linear-gradient(180deg, rgba(255, 254, 254, 0.15), rgba(255, 254, 254, 0));
 }
 
@@ -20489,7 +20489,7 @@ iframe {
     border: 2px solid black;
 }
 .carousel-indicators li.active {
-  background-color: #DBF4FF;
+  background-color: #FFCA21;
   height: 15px;
   width: 15px;
   border-radius: 12px;
