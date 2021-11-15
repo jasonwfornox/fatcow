@@ -108,6 +108,15 @@ body {
 	-webkit-text-fill-color: transparent;
 }
 
+.secondary-text {
+	background: -webkit-linear-gradient(to bottom, #9C8BD9, #9C8BD9);
+	background: -o-linear-gradient(to bottom, #9C8BD9, #9C8BD9);
+	background: -moz-linear-gradient(to bottom, #9C8BD9, #9C8BD9);
+	background: linear-gradient(to bottom, #9C8BD9, #9C8BD9);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
 .white-text {
     font-size: 2.5vw;
     color: white;
@@ -20095,7 +20104,6 @@ iframe {
 }
 
 .gradient-red-orange {
-	height: 490px;
 	background-image: linear-gradient(#DA4C87, #FFCA21);
 }
 
@@ -20318,6 +20326,9 @@ iframe {
     .img-wrapper5 p {
         font-size: 0.75rem;
         line-height: 1.5;
+    }
+    .main-header {
+        font-size: 2.3rem;
     }
 }
 
