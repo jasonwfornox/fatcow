@@ -16,7 +16,7 @@
     <meta name="msapplication-TileImage" content="assets/img/favicons/mstile-150x150.png">
     <meta name="theme-color" content="#ffffff">
     <!-- Bootstrap 4 Default CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="vendors/bootstrap/css/bootstrap.min.css">
     <link href="assets/css/theme.css" rel="stylesheet"/>
 
 </head>
@@ -315,7 +315,7 @@
             <div class="mb-7 text-center">
                 <h3 class="title-header primary-text">Tangible Digital Asset</h3>
             </div>
-            <div id="carouselExample" class="carousel slide" data-ride="carousel" data-bs-interval="1000">
+            <div id="carouselExample" class="carousel slide" data-ride="carousel" data-bs-interval="1000" data-touch="true">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="card">
@@ -411,7 +411,7 @@
             <div class="mb-7 mt-5 text-center">
                 <h3 class="main-header primary-text">The Process</h3>
             </div>
-            <div id="carouselExample2" class="carousel slide" data-ride="carousel" data-bs-interval="1000">
+            <div id="carouselExample2" class="carousel slide" data-ride="carousel" data-bs-interval="1000" data-touch="true">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="card">
@@ -631,10 +631,8 @@
 </main>
 <script src="assets/js/jquery-3.6.0.min.js"></script>
 <script src="vendors/bootstrap/bootstrap.min.js"></script>
-<script src="vendors/is/is.min.js"></script>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
 <script src="assets/js/theme.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+<script src="assets/js/jquery.touchSwipe.min.js"></script>
 <script>
 $(document).ready(function() {
         causeRepaintsOn = $("h1, h2, h3, p");
@@ -642,6 +640,30 @@ $(document).ready(function() {
           causeRepaintsOn.css("z-index", 1);
         });
          $(".item").addClass('animated slideInUp');
+
+    $("#carouselExample").swipe( {
+            swipe:function(event, direction, distance, duration, fingerCount, fingerData) {
+
+                if(direction=='left'){
+                    $(this).carousel('next');
+                }else if(direction=='right'){
+                    $(this).carousel('prev');
+                }
+
+            }
+        });
+
+            $("#carouselExample2").swipe( {
+            swipe:function(event, direction, distance, duration, fingerCount, fingerData) {
+
+                if(direction=='left'){
+                    $(this).carousel('next');
+                }else if(direction=='right'){
+                    $(this).carousel('prev');
+                }
+
+            }
+        });
 });
 </script>
 </body>
